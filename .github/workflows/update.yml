@@ -1,0 +1,60 @@
+name: Update Korea Submarine Watch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"   # 매일 23:00 UTC = 한국시간 08:00
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "update-news"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Collect News
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Collect and analyze news
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # 진단이 필요할 때만 아래 주석을 풀어서 소스별 raw/필터 통과 개수와
+          # 제외된 기사 목록을 Actions 로그에서 확인하세요.
+          # DEBUG_COLLECTOR: "1"
+        run: python scripts/update_news.py
+      - name: Save updated news data
+        run: |
+          git config user.name "Korea Submarine Watch Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/news.json
+          git diff --cached --quiet || git commit -m "Update submarine news"
+          git push
+  deploy:
+    name: Deploy Website
+    needs: update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout updated files
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./docs"
+      - name: Deploy website
+        uses: actions/deploy-pages@v4
