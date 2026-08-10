@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Korea Submarine Watch — 한화오션·HD현대중공업 잠수함 뉴스</title>
+<meta name="description" content="한화오션·HD현대중공업 잠수함 수출·사업 관련 뉴스를 매일 자동 추적합니다.">
+<style>
+  :root{
+    --bg:#0A1420;
+    --panel:#0F1D2C;
+    --panel-2:#132639;
+    --border:#1E3145;
+    --text:#E8EEF4;
+    --text-dim:#7C93A8;
+    --accent:#4FD1C5;
+    --accent-dim:#245952;
+    --warn:#F5A623;
+    --danger:#E85D5D;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(ellipse 900px 400px at 15% -10%, rgba(79,209,197,0.09), transparent 60%),
+      var(--bg);
+    color:var(--text);
+    font-family:"Pretendard","Inter",-apple-system,BlinkMacSystemFont,"Malgun Gothic",sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding:28px 20px 80px;}
+
+  /* ── Header ─────────────────────────────────────── */
+  header{position:relative;padding:8px 0 28px;overflow:hidden;}
+  .eyebrow{
+    font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--accent);font-weight:600;margin-bottom:10px;
+    display:flex;align-items:center;gap:8px;
+  }
+  .eyebrow .dot{width:6px;height:6px;border-radius:50%;background:var(--accent);
+    box-shadow:0 0 0 0 rgba(79,209,197,.6);animation:pulse 2.4s infinite;}
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(79,209,197,.55);}
+    70%{box-shadow:0 0 0 10px rgba(79,209,197,0);}
+    100%{box-shadow:0 0 0 0 rgba(79,209,197,0);}
+  }
+  h1{
+    font-size:clamp(28px,4vw,42px);margin:0 0 8px;font-weight:800;letter-spacing:-.02em;
+    display:flex;align-items:center;gap:12px;flex-wrap:wrap;
+  }
+  h1 .flag{font-size:.75em;}
+  .tagline{color:var(--text-dim);font-size:15px;max-width:620px;margin:0;}
+
+  /* sonar sweep signature — 은은한 배경 스윕 라인 */
+  .sonar-line{
+    position:absolute;top:0;right:-10%;width:70%;height:100%;pointer-events:none;
+    opacity:.35;
+  }
+  .sonar-line svg{width:100%;height:100%;}
+  .sonar-line circle{fill:none;stroke:var(--accent);stroke-width:1;opacity:.35;}
+  .sonar-line .sweep{
+    transform-origin:center;
+    animation:sweep 6s linear infinite;
+  }
+  @keyframes sweep{ to { transform:rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce){
+    .sonar-line .sweep{animation:none;}
+    .eyebrow .dot{animation:none;}
+  }
+  @media (max-width:720px){ .sonar-line{display:none;} }
+
+  .refresh-btn{
+    position:absolute;top:8px;right:0;
+    background:var(--panel-2);border:1px solid var(--border);color:var(--text);
+    padding:8px 14px;border-radius:8px;font-size:13px;cursor:pointer;
+    display:flex;align-items:center;gap:6px;transition:border-color .15s;
+  }
+  .refresh-btn:hover{border-color:var(--accent);}
+  .refresh-btn:active{transform:translateY(1px);}
+  @media (max-width:720px){ .refresh-btn{position:static;margin-top:16px;} }
+
+  /* ── Stat cards ─────────────────────────────────── */
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:6px 0 28px;}
+  @media (max-width:720px){ .stats{grid-template-columns:1fr;} }
+  .stat{
+    background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);
+    padding:18px 20px;
+  }
+  .stat .label{font-size:12px;color:var(--text-dim);margin-bottom:8px;}
+  .stat .value{font-size:32px;font-weight:800;letter-spacing:-.02em;}
+  .stat .sub{font-size:12.5px;color:var(--text-dim);margin-top:6px;}
+  .stat.highlight .value{color:var(--accent);}
+
+  /* ── Section headers ────────────────────────────── */
+  section{margin-bottom:34px;}
+  .sec-head{margin-bottom:14px;}
+  .sec-head h2{font-size:17px;margin:0 0 4px;font-weight:700;}
+  .sec-head p{font-size:13px;color:var(--text-dim);margin:0;}
+
+  /* ── Source status grid ─────────────────────────── */
+  .source-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;}
+  @media (max-width:900px){ .source-grid{grid-template-columns:repeat(2,1fr);} }
+  @media (max-width:600px){ .source-grid{grid-template-columns:1fr;} }
+  .source-card{
+    background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);
+    padding:14px 16px;
+  }
+  .source-card .row{display:flex;justify-content:space-between;align-items:flex-start;gap:8px;}
+  .source-card .name{font-weight:700;font-size:14px;}
+  .badge{
+    font-size:11px;padding:3px 9px;border-radius:999px;white-space:nowrap;
+    border:1px solid var(--border);color:var(--text-dim);
+  }
+  .badge.new{background:rgba(79,209,197,.12);border-color:var(--accent-dim);color:var(--accent);}
+  .badge.err{background:rgba(232,93,93,.12);border-color:#5a2d2d;color:var(--danger);}
+  .source-card .query{font-size:11.5px;color:var(--text-dim);margin-top:8px;word-break:break-word;}
+
+  /* ── Filter ─────────────────────────────────────── */
+  .filter-row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;}
+  .filter-btn{
+    background:var(--panel);border:1px solid var(--border);color:var(--text-dim);
+    padding:7px 13px;border-radius:999px;font-size:12.5px;cursor:pointer;
+  }
+  .filter-btn.active{background:rgba(79,209,197,.12);border-color:var(--accent-dim);color:var(--accent);}
+
+  /* ── Article list ───────────────────────────────── */
+  .article{
+    background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);
+    padding:18px 20px;margin-bottom:12px;
+  }
+  .article .top{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:8px;}
+  .article .meta{font-size:12px;color:var(--text-dim);display:flex;gap:10px;flex-wrap:wrap;align-items:center;}
+  .stars{color:var(--warn);font-size:13px;letter-spacing:1px;}
+  .article h3{font-size:16px;margin:0 0 8px;font-weight:700;line-height:1.4;}
+  .article h3 a{color:var(--text);text-decoration:none;}
+  .article h3 a:hover{color:var(--accent);}
+  .article .summary{font-size:13.5px;color:#C3D1DD;margin:0 0 10px;}
+  .article .assessment{font-size:12.5px;color:var(--text-dim);font-style:italic;margin:0 0 10px;}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;}
+  .tag{
+    font-size:11px;padding:3px 9px;border-radius:6px;
+    background:var(--panel-2);border:1px solid var(--border);color:var(--text-dim);
+  }
+  .tag.company{color:var(--accent);border-color:var(--accent-dim);}
+  .empty-state{
+    text-align:center;padding:50px 20px;color:var(--text-dim);
+    border:1px dashed var(--border);border-radius:var(--radius);font-size:13.5px;
+  }
+
+  footer{
+    border-top:1px solid var(--border);padding-top:18px;margin-top:10px;
+    font-size:12px;color:var(--text-dim);text-align:center;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="sonar-line" aria-hidden="true">
+      <svg viewBox="0 0 400 400">
+        <circle cx="200" cy="200" r="60"></circle>
+        <circle cx="200" cy="200" r="120"></circle>
+        <circle cx="200" cy="200" r="180"></circle>
+        <g class="sweep">
+          <line x1="200" y1="200" x2="200" y2="20" stroke="url(#g)" stroke-width="2"></line>
+        </g>
+        <defs>
+          <linearGradient id="g" x1="0" y1="1" x2="0" y2="0">
+            <stop offset="0%" stop-color="#4FD1C5" stop-opacity="0"></stop>
+            <stop offset="100%" stop-color="#4FD1C5" stop-opacity="0.9"></stop>
+          </linearGradient>
+        </defs>
+      </svg>
+    </div>
+
+    <div class="eyebrow"><span class="dot"></span> DEFENSE INDUSTRY MONITOR</div>
+    <h1><span class="flag">🇰🇷</span> Korea Submarine Watch</h1>
+    <p class="tagline">한화오션·HD현대중공업의 잠수함 수출·건조·기술 관련 뉴스를 매일 자동으로 추적합니다.</p>
+    <button class="refresh-btn" id="refreshBtn">↻ 새로고침</button>
+  </header>
+
+  <div class="stats">
+    <div class="stat highlight">
+      <div class="label">오늘 신규 기사</div>
+      <div class="value" id="statToday">–</div>
+      <div class="sub" id="statUpdated">업데이트 확인 중...</div>
+    </div>
+    <div class="stat">
+      <div class="label">모니터링 소스</div>
+      <div class="value" id="statSources">–</div>
+      <div class="sub">국내 뉴스 · 해외 방산매체</div>
+    </div>
+    <div class="stat">
+      <div class="label">기업 언급 (최근 14일)</div>
+      <div class="value" id="statCompanies">–</div>
+      <div class="sub">한화오션 · HD현대중공업</div>
+    </div>
+  </div>
+
+  <section>
+    <div class="sec-head">
+      <h2>📡 소스별 오늘 상태</h2>
+      <p>오늘 새로운 관련 기사가 발견됐는지 확인합니다.</p>
+    </div>
+    <div class="source-grid" id="sourceGrid"></div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <h2>📰 최신 기사</h2>
+      <p>중요도가 높은 기사부터 확인하세요.</p>
+    </div>
+    <div class="filter-row" id="filterRow">
+      <button class="filter-btn active" data-min="0">전체 중요도</button>
+      <button class="filter-btn" data-min="5">★★★★★</button>
+      <button class="filter-btn" data-min="4">★★★★ 이상</button>
+      <button class="filter-btn" data-min="3">★★★ 이상</button>
+    </div>
+    <div id="articleList"></div>
+  </section>
+
+  <footer>
+    Korea Submarine Watch · 뉴스 원문과 공식 발표를 최종 확인하세요.
+  </footer>
+
+</div>
+
+<script>
+let currentData = null;
+let minStars = 0;
+
+async function loadData(){
+  try{
+    const res = await fetch('./data/news.json?t=' + Date.now());
+    if(!res.ok) throw new Error('news.json fetch failed: ' + res.status);
+    currentData = await res.json();
+    render();
+  }catch(e){
+    document.getElementById('statUpdated').textContent = '데이터를 불러오지 못했습니다';
+    document.getElementById('articleList').innerHTML =
+      '<div class="empty-state">news.json을 아직 찾을 수 없습니다. GitHub Actions가 최초 1회 실행된 후 표시됩니다.</div>';
+    console.error(e);
+  }
+}
+
+function render(){
+  const d = currentData;
+  if(!d) return;
+
+  const todayCount = (d.articles || []).filter(a => a.new_today).length;
+  document.getElementById('statToday').textContent = todayCount;
+  document.getElementById('statUpdated').textContent = '마지막 업데이트: ' + (d.updated_at_ko || '-') + ' (KST)';
+
+  document.getElementById('statSources').textContent = (d.sources || []).length;
+
+  const companyMentions = new Set();
+  (d.articles || []).forEach(a => (a.companies || []).forEach(c => companyMentions.add(c)));
+  document.getElementById('statCompanies').textContent = companyMentions.size
+    ? Array.from(companyMentions).join(' · ')
+    : '0';
+
+  renderSources(d.sources || []);
+  renderArticles(d.articles || []);
+}
+
+function renderSources(sources){
+  const grid = document.getElementById('sourceGrid');
+  if(!sources.length){
+    grid.innerHTML = '<div class="empty-state">소스 상태 데이터가 없습니다.</div>';
+    return;
+  }
+  grid.innerHTML = sources.map(s => `
+    <div class="source-card">
+      <div class="row">
+        <div class="name">${escapeHtml(s.source)}</div>
+        ${s.error
+          ? `<span class="badge err">오류</span>`
+          : (s.found_today ? `<span class="badge new">신규 ${s.count_today}건</span>` : `<span class="badge">신규 없음</span>`)}
+      </div>
+      <div class="query">${escapeHtml(s.query || '')}</div>
+    </div>
+  `).join('');
+}
+
+function renderArticles(articles){
+  const list = document.getElementById('articleList');
+  const filtered = articles.filter(a => (a.importance || 0) >= minStars);
+
+  if(!filtered.length){
+    list.innerHTML = '<div class="empty-state">조건에 맞는 기사가 없습니다. 최근 14일간 한화오션·HD현대중공업 관련 잠수함 뉴스가 없었을 수 있습니다.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(a => `
+    <article class="article">
+      <div class="top">
+        <div class="meta">
+          <span class="stars">${'★'.repeat(a.importance || 0)}${'☆'.repeat(5 - (a.importance || 0))}</span>
+          <span>${escapeHtml(a.source || '')}</span>
+          <span>${escapeHtml(a.published_ko || '')}</span>
+          ${a.new_today ? '<span class="badge new">NEW</span>' : ''}
+        </div>
+      </div>
+      <h3><a href="${escapeAttr(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
+      ${a.summary_ko ? `<p class="summary">${escapeHtml(a.summary_ko)}</p>` : ''}
+      ${a.assessment ? `<p class="assessment">${escapeHtml(a.assessment)}</p>` : ''}
+      <div class="tags">
+        ${(a.companies || []).map(c => `<span class="tag company">${escapeHtml(c)}</span>`).join('')}
+        ${(a.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+      </div>
+    </article>
+  `).join('');
+}
+
+function escapeHtml(s){
+  return String(s ?? '').replace(/[&<>"']/g, m => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[m]));
+}
+function escapeAttr(s){ return escapeHtml(s); }
+
+document.getElementById('refreshBtn').addEventListener('click', loadData);
+document.getElementById('filterRow').addEventListener('click', (e) => {
+  const btn = e.target.closest('.filter-btn');
+  if(!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  minStars = Number(btn.dataset.min);
+  renderArticles(currentData ? currentData.articles || [] : []);
+});
+
+loadData();
+</script>
+</body>
+</html>
