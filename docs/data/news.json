@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-11T09:06:32.267878+09:00",
-  "updated_at_ko": "2026-08-11 09:06",
-  "today": "2026-08-11",
+  "updated_at": "2026-08-12T14:17:25.050470+09:00",
+  "updated_at_ko": "2026-08-12 14:17",
+  "today": "2026-08-12",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 3,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 3,
       "error": null
     },
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "연합뉴스",
       "query": "site:yna.co.kr 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 61,
       "error": null
     },
     {
@@ -76,40 +76,12 @@
     {
       "source": "Google News 종합(영문)",
       "query": "Hanwha Ocean submarine OR HD Hyundai Heavy Industries submarine OR South Korea submarine export",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     }
   ],
   "articles": [
-    {
-      "title": "HD현대중공업, 캐나다 데이비조선소 방문⋯잠수함 수주 총력 - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GX2NhOV9nTXpOOFRkTndoR2MycUpxTXp2d0ZjM2s1clBVYWJYeDAzWmNweVV2OWlwalZLMVRwelhfNjJaRjREcDd2aTY?oc=5",
-      "description": "HD현대중공업, 캐나다 데이비조선소 방문⋯잠수함 수주 총력 아이뉴스24",
-      "published": "2026-08-04T09:56:07+00:00",
-      "source": "HD현대중공업 (국내)",
-      "id": "a012dfedf76b47c3",
-      "relevance": 98,
-      "companies": [
-        "HD현대중공업"
-      ],
-      "competitors": [],
-      "countries": [
-        "🇨🇦 캐나다"
-      ],
-      "program_stage": "계약/선정",
-      "new_today": false,
-      "published_ko": "2026-08-04 18:56",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: HD현대중공업",
-        "사업/수출",
-        "대상국: 🇨🇦 캐나다",
-        "계약/선정"
-      ]
-    },
     {
       "title": "[컨콜] HD현대중공업 \"필리핀 함정·페루 잠수함, 3·4분기 수주 목표\" - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGMlpRSTFYWGRxeUZzUUtDYWprT3ZVUG9Ec0pCcTUzVHdBck8xcGlUX2lFN0xtYWFrb1JZUm1wdDdBSkJ1cXpKUXhYdnpTUXFTQURQZE85Z2xFMDJh?oc=5",
@@ -140,10 +112,36 @@
       ]
     },
     {
+      "title": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXVHY3pFN0xBSDlTTHVIaTdWY0ZYWjJoS1NuUWJReHc2bUZqaG1WOVcyMk9nTWNLVHJWWU4wbFBLWkVVZjdfLUJmOEhzMjhHZzNlZUZ4akZVRDFlZTFQLUlnNkxoSkRhUG1ScUpfd1dKd1dmbU80eUxvaWIxM3J0T1BYcVrSAZgBQVVfeXFMTlpNYlBUeU10RW90cHYtUTFXX3NNemlXV2U4MUotOTkwbldZVXRFYVBBUmtvSlVVbkRHUU9iRWc0ZGs3SktpRWtoMXQ0RkU5TWc4cEFld29RSnUwcFlXNjRLWGNDQTc4b2w5N2c4YXk0TGhmZWxtZFFSejV6S3FfcjYtWEJtVUM2Qmp0TVZxcTlPaWhHeEwtc1g?oc=5",
+      "description": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 Chosunbiz",
+      "published": "2026-08-12T01:08:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "7e4837861b5deb8f",
+      "relevance": 90,
+      "companies": [
+        "한화오션",
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": true,
+      "published_ko": "2026-08-12 10:08",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션, HD현대중공업",
+        "사업/수출",
+        "관련 동향"
+      ]
+    },
+    {
       "title": "미국, 잠수함 수출 0척… 한화오션, 400억 달러 시장 속 과제와 기회 - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWNjQ01DMndfcGFSaTNoWmUzTXRoblU3b3hxRmdaei1rUjZHcmVmbXdET2RsZWpxMTUyb2JMLVFlQkJNcGxMRFl6amZjdWRjVWJhTm1RVnRYRDdvMUU4eldTdnZlbkhMNzVkWXpiOHVmNjJCUFJBLWFSWXpDOHZPb2lLYkQxNUU?oc=5",
       "description": "미국, 잠수함 수출 0척… 한화오션, 400억 달러 시장 속 과제와 기회 글로벌이코노믹",
-      "published": "2026-08-02T22:09:27+00:00",
+      "published": "2026-08-03T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "63121316082b4225",
       "relevance": 90,
@@ -154,7 +152,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-08-03 07:09",
+      "published_ko": "2026-08-03 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -193,9 +191,9 @@
       ]
     },
     {
-      "title": "HD현대중공업, 아르헨티나 잠수함 MRO 패키지 제안…페루 '시마'와 통합 구축 - 더구루",
+      "title": "HD현대중공업, 아르헨티나 잠수함 MRO 패키지 제안…페루 '시마'와 통합 구축 - theguru.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsWjFwYW5La2NDa3pHUVh5XzlHLVdkSjdiZ181NmlfWnpkUW0ySlJQNU1pc09CNTY4bnR1bFFTZE9YY2NDZnB5THlscFhNc1dGakFsU3l3bUlvVmZ2cE1yMmtfaw?oc=5",
-      "description": "HD현대중공업, 아르헨티나 잠수함 MRO 패키지 제안…페루 '시마'와 통합 구축 더구루",
+      "description": "HD현대중공업, 아르헨티나 잠수함 MRO 패키지 제안…페루 '시마'와 통합 구축 theguru.co.kr",
       "published": "2026-08-05T05:29:19+00:00",
       "source": "HD현대중공업 (국내)",
       "id": "17da471c6dd3986d",
@@ -302,9 +300,9 @@
       ]
     },
     {
-      "title": "[단독] 한화오션, 칠레 '극지 조선 거점' 육성 구상…잠수함 넘어 MRO·공급망까지 - 더구루",
+      "title": "[단독] 한화오션, 칠레 '극지 조선 거점' 육성 구상…잠수함 넘어 MRO·공급망까지 - theguru.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83V2tLU3Y2dmptR3kwRC1kSjFveGF3bldVeHVuejJNTlBtV0Y0dmdRU0kxVTJqZ1l3RGNJWUZTVW5aUzA5OGVSVkt4bmdSbzlkTXZFaDBGdW5ncm1fZFE?oc=5",
-      "description": "[단독] 한화오션, 칠레 '극지 조선 거점' 육성 구상…잠수함 넘어 MRO·공급망까지 더구루",
+      "description": "[단독] 한화오션, 칠레 '극지 조선 거점' 육성 구상…잠수함 넘어 MRO·공급망까지 theguru.co.kr",
       "published": "2026-08-10T05:32:52+00:00",
       "source": "한화오션 (국내)",
       "id": "dcb34504e61c982d",
