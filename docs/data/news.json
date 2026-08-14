@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14T14:18:18.036300+09:00",
-  "updated_at_ko": "2026-08-14 14:18",
-  "today": "2026-08-14",
+  "updated_at": "2026-08-15T08:50:31.687100+09:00",
+  "updated_at_ko": "2026-08-15 08:50",
+  "today": "2026-08-15",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -13,15 +13,15 @@
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": true,
-      "count_today": 2,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "title": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXVHY3pFN0xBSDlTTHVIaTdWY0ZYWjJoS1NuUWJReHc2bUZqaG1WOVcyMk9nTWNLVHJWWU4wbFBLWkVVZjdfLUJmOEhzMjhHZzNlZUZ4akZVRDFlZTFQLUlnNkxoSkRhUG1ScUpfd1dKd1dmbU80eUxvaWIxM3J0T1BYcVrSAZgBQVVfeXFMTlpNYlBUeU10RW90cHYtUTFXX3NNemlXV2U4MUotOTkwbldZVXRFYVBBUmtvSlVVbkRHUU9iRWc0ZGs3SktpRWtoMXQ0RkU5TWc4cEFld29RSnUwcFlXNjRLWGNDQTc4b2w5N2c4YXk0TGhmZWxtZFFSejV6S3FfcjYtWEJtVUM2Qmp0TVZxcTlPaWhHeEwtc1g?oc=5",
       "description": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 Chosunbiz",
-      "published": "2026-08-11T21:01:07+00:00",
+      "published": "2026-08-12T01:08:00+00:00",
       "source": "한화오션 (국내)",
       "id": "7e4837861b5deb8f",
       "relevance": 90,
@@ -123,7 +123,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-08-12 06:01",
+      "published_ko": "2026-08-12 10:08",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
