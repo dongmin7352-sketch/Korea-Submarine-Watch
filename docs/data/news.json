@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-18T08:48:48.718437+09:00",
-  "updated_at_ko": "2026-08-18 08:48",
-  "today": "2026-08-18",
+  "updated_at": "2026-08-19T08:49:02.971346+09:00",
+  "updated_at_ko": "2026-08-19 08:49",
+  "today": "2026-08-19",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -20,8 +20,8 @@
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -114,7 +114,7 @@
       "title": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXVHY3pFN0xBSDlTTHVIaTdWY0ZYWjJoS1NuUWJReHc2bUZqaG1WOVcyMk9nTWNLVHJWWU4wbFBLWkVVZjdfLUJmOEhzMjhHZzNlZUZ4akZVRDFlZTFQLUlnNkxoSkRhUG1ScUpfd1dKd1dmbU80eUxvaWIxM3J0T1BYcVrSAZgBQVVfeXFMTlpNYlBUeU10RW90cHYtUTFXX3NNemlXV2U4MUotOTkwbldZVXRFYVBBUmtvSlVVbkRHUU9iRWc0ZGs3SktpRWtoMXQ0RkU5TWc4cEFld29RSnUwcFlXNjRLWGNDQTc4b2w5N2c4YXk0TGhmZWxtZFFSejV6S3FfcjYtWEJtVUM2Qmp0TVZxcTlPaWhHeEwtc1g?oc=5",
       "description": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 Chosunbiz",
-      "published": "2026-08-11T21:01:07+00:00",
+      "published": "2026-08-12T01:08:00+00:00",
       "source": "한화오션 (국내)",
       "id": "7e4837861b5deb8f",
       "relevance": 90,
@@ -126,7 +126,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-08-12 06:01",
+      "published_ko": "2026-08-12 10:08",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -161,34 +161,6 @@
       "tags": [
         "기업 언급: 한화오션, HD현대중공업",
         "대상국: 🇵🇪 페루",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "캐나다서 고배 마신 한화오션…태국 호위함·사우디 잠수함으로 반격 - 더퍼블릭",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FNi1UX2hXajY2X3NWUFdTX1MyS005LTd5UF8zQ0xfQ1ZrMVBXWmFJWEJqWEZXUTRONXMzOGxrRklyRXQ4QXpOSDFpck1qTF9wcm9EdTdsaWNMekJnZVZDb1Njdko5aEJvQm9V0gFvQVVfeXFMT0lhakFQSFQxelByQVQ1VGl6UjU2ck1Mdk9pQ1d0OHoxN0YxSW9FMjdPQ0YtcDVTOGtLS3NfWFJyWFl3MnlpWXpGLWdaY2FHYlNMd1lBbUdRb09QQkx0YWN3QW1MY1VtcnVoQWdLc3NF?oc=5",
-      "description": "캐나다서 고배 마신 한화오션…태국 호위함·사우디 잠수함으로 반격 더퍼블릭",
-      "published": "2026-08-10T02:44:15+00:00",
-      "source": "한화오션 (국내)",
-      "id": "c210c0eedbe07959",
-      "relevance": 83,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [
-        "🇨🇦 캐나다",
-        "🇸🇦 사우디"
-      ],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-08-10 11:44",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "대상국: 🇨🇦 캐나다, 🇸🇦 사우디",
         "관련 동향"
       ]
     },
@@ -235,7 +207,7 @@
       ],
       "countries": [],
       "program_stage": "건조/시험",
-      "new_today": true,
+      "new_today": false,
       "published_ko": "2026-08-18 06:59",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
@@ -272,11 +244,11 @@
     },
     {
       "title": "[단독] 한화오션, 칠레 '극지 조선 거점' 육성 구상…잠수함 넘어 MRO·공급망까지 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBweXhrUUhfN1VTeW1xYy1ZaEktNjZ6MXFFVnBvbU1rbHRFYUVvd3Azdkhpbk5YcjJfRUtqRDUyd01Kc1RHdDAtYUVUM3E3ZVEtaUhCQU1BclB6UGRtWW1HX0FBUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83V2tLU3Y2dmptR3kwRC1kSjFveGF3bldVeHVuejJNTlBtV0Y0dmdRU0kxVTJqZ1l3RGNJWUZTVW5aUzA5OGVSVkt4bmdSbzlkTXZFaDBGdW5ncm1fZFE?oc=5",
       "description": "[단독] 한화오션, 칠레 '극지 조선 거점' 육성 구상…잠수함 넘어 MRO·공급망까지 더구루",
-      "published": "2026-08-10T05:32:52+00:00",
+      "published": "2026-08-10T07:00:00+00:00",
       "source": "한화오션 (국내)",
-      "id": "c04456f09ff5d614",
+      "id": "dcb34504e61c982d",
       "relevance": 75,
       "companies": [
         "한화오션"
@@ -285,7 +257,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-08-10 14:32",
+      "published_ko": "2026-08-10 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
