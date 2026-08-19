@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-19T08:49:02.971346+09:00",
-  "updated_at_ko": "2026-08-19 08:49",
-  "today": "2026-08-19",
+  "updated_at": "2026-08-20T08:49:11.716494+09:00",
+  "updated_at_ko": "2026-08-20 08:49",
+  "today": "2026-08-20",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -137,6 +137,32 @@
       ]
     },
     {
+      "title": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차…잠수함 수출 총력 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSUhJbi1jSC1tSFZvZnhVcmE5QlRLbVBBdGVHMnpYRllkakt2UG1ieUJaODJRcWhpOEZ6YmZNZjJ1SXNNVFNiUmRRblQydUlHZzNJ?oc=5",
+      "description": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차…잠수함 수출 총력 네이트",
+      "published": "2026-08-11T21:01:00+00:00",
+      "source": "HD현대중공업 (국내)",
+      "id": "ada539dbf6a47958",
+      "relevance": 90,
+      "companies": [
+        "한화오션",
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-08-12 06:01",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션, HD현대중공업",
+        "사업/수출",
+        "관련 동향"
+      ]
+    },
+    {
       "title": "HD Hyundai, Hanwha Ocean Target South American Submarine Market; Eye Argentina, Chile After Peru - finance.biggo.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTUpyM3NmTk84cTBtbGxjQklKUndfSE5qOHZFa0FEU3VDZ21BU2tsd2RxV2xLeHdQOVdYSElaamI0SnFTZDhiZnpBRy1ublY3UjV5Ry1mVjZfT1R0djBXajNvSmlZRFNlTDRHU2NEWlFLbl84X1E?oc=5",
       "description": "HD Hyundai, Hanwha Ocean Target South American Submarine Market; Eye Argentina, Chile After Peru finance.biggo.com",
@@ -160,33 +186,6 @@
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
       "tags": [
         "기업 언급: 한화오션, HD현대중공업",
-        "대상국: 🇵🇪 페루",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "HD현대중공업, 아르헨티나 잠수함 MRO 패키지 제안…페루 '시마'와 통합 구축 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsWjFwYW5La2NDa3pHUVh5XzlHLVdkSjdiZ181NmlfWnpkUW0ySlJQNU1pc09CNTY4bnR1bFFTZE9YY2NDZnB5THlscFhNc1dGakFsU3l3bUlvVmZ2cE1yMmtfaw?oc=5",
-      "description": "HD현대중공업, 아르헨티나 잠수함 MRO 패키지 제안…페루 '시마'와 통합 구축 더구루",
-      "published": "2026-08-05T05:29:19+00:00",
-      "source": "HD현대중공업 (국내)",
-      "id": "17da471c6dd3986d",
-      "relevance": 83,
-      "companies": [
-        "HD현대중공업"
-      ],
-      "competitors": [],
-      "countries": [
-        "🇵🇪 페루"
-      ],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-08-05 14:29",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: HD현대중공업",
         "대상국: 🇵🇪 페루",
         "관련 동향"
       ]
