@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-23T08:42:21.449341+09:00",
-  "updated_at_ko": "2026-08-23 08:42",
-  "today": "2026-08-23",
+  "updated_at": "2026-08-24T08:42:23.101173+09:00",
+  "updated_at_ko": "2026-08-24 08:42",
+  "today": "2026-08-24",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -27,8 +27,8 @@
     {
       "source": "연합뉴스",
       "query": "site:yna.co.kr 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -115,7 +115,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXVHY3pFN0xBSDlTTHVIaTdWY0ZYWjJoS1NuUWJReHc2bUZqaG1WOVcyMk9nTWNLVHJWWU4wbFBLWkVVZjdfLUJmOEhzMjhHZzNlZUZ4akZVRDFlZTFQLUlnNkxoSkRhUG1ScUpfd1dKd1dmbU80eUxvaWIxM3J0T1BYcVrSAZgBQVVfeXFMTlpNYlBUeU10RW90cHYtUTFXX3NNemlXV2U4MUotOTkwbldZVXRFYVBBUmtvSlVVbkRHUU9iRWc0ZGs3SktpRWtoMXQ0RkU5TWc4cEFld29RSnUwcFlXNjRLWGNDQTc4b2w5N2c4YXk0TGhmZWxtZFFSejV6S3FfcjYtWEJtVUM2Qmp0TVZxcTlPaWhHeEwtc1g?oc=5",
       "description": "HD현대중공업·한화오션, 남미 함정 시장 개척 박차… 잠수함 수출 총력 - 조선비즈 Chosunbiz",
       "published": "2026-08-12T07:00:00+00:00",
-      "source": "HD현대중공업 (국내)",
+      "source": "한화오션 (국내)",
       "id": "7e4837861b5deb8f",
       "relevance": 90,
       "companies": [
