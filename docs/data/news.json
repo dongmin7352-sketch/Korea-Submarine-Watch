@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-28T15:08:40.066059+09:00",
-  "updated_at_ko": "2026-08-28 15:08",
-  "today": "2026-08-28",
+  "updated_at": "2026-08-29T08:03:46.155476+09:00",
+  "updated_at_ko": "2026-08-29 08:03",
+  "today": "2026-08-29",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -14,7 +14,7 @@
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
       "found_today": true,
-      "count_today": 2,
+      "count_today": 1,
       "error": null
     },
     {
@@ -76,12 +76,40 @@
     {
       "source": "Google News 종합(영문)",
       "query": "Hanwha Ocean submarine OR HD Hyundai Heavy Industries submarine OR South Korea submarine export",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     }
   ],
   "articles": [
+    {
+      "title": "한화오션 \"캐나다 잠수함 협력은 촉진제…2032년 첫 인도 계획\" - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qU24xNUxUNFg4WnN2eWp1U3ZmMVIyOVJlNEpQRUxJUmEtbUlvZHNOaVhrNktXZFNUY21tcUdPZGo4STZGb200QVRIWEdkZ0loNlE?oc=5",
+      "description": "한화오션 \"캐나다 잠수함 협력은 촉진제…2032년 첫 인도 계획\" 매일경제 마켓",
+      "published": "2026-08-27T08:37:37+00:00",
+      "source": "한화오션 (국내)",
+      "id": "4e78a5bd5ce85cf9",
+      "relevance": 98,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [
+        "🇨🇦 캐나다"
+      ],
+      "program_stage": "인도/취역",
+      "new_today": false,
+      "published_ko": "2026-08-27 17:37",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "대상국: 🇨🇦 캐나다",
+        "인도/취역"
+      ]
+    },
     {
       "title": "[뉴스 속 무기] HD현대중공업의 수출용 잠수함 ‘HDS-1500’…페루와 공동개발 추진하고 아르헨티나에도 수출 타진 - 뉴스투데이",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44SWlhQ3FxVGhjUlNPZkVndWVONUIta3F0TllRa3VzRmN6X19nQ0dxeUZrVmVXS2lhN1l1QW9fWDhDcEdfSUticHZGbW43RklESWZlUjNQazY4WFNWSXc?oc=5",
