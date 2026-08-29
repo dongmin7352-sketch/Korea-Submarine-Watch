@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-29T08:03:46.155476+09:00",
-  "updated_at_ko": "2026-08-29 08:03",
-  "today": "2026-08-29",
+  "updated_at": "2026-08-30T08:03:46.100353+09:00",
+  "updated_at_ko": "2026-08-30 08:03",
+  "today": "2026-08-30",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -13,8 +13,8 @@
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
