@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-01T08:03:49.666613+09:00",
-  "updated_at_ko": "2026-09-01 08:03",
-  "today": "2026-09-01",
+  "updated_at": "2026-09-02T08:05:51.389070+09:00",
+  "updated_at_ko": "2026-09-02 08:05",
+  "today": "2026-09-02",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -83,9 +83,40 @@
   ],
   "articles": [
     {
-      "title": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 - g-enews.com",
+      "title": "[2신]캐나다, 잠수함 사업 독일 TKMS로…한화오션 수주 불발 - 거제인터넷신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1COGtMZ045TFlOR3hmWWw3VG5sY2lVNVdvMElsM28wV3pGT19ONVNQbXZtT0M2ZExVWW1GUWhLMlROazVEVzUwSTlVc19SeUZSMThTR2EwMlNfNTVLNUlocHNn0gFmQVVfeXFMTkNtTHVRa051UFV6MWJhWnhOdWV0OUxEeUFfZktBR3NTRmp0VmxnbHc4MW9BQllHb2J4YUszVWtoZ1N0ZlFNLUgtdnNtTUNSVDlmMGc4Qk96T1l0QXFOamtDWlRqS2tn?oc=5",
+      "description": "[2신]캐나다, 잠수함 사업 독일 TKMS로…한화오션 수주 불발 거제인터넷신문",
+      "published": "2026-08-21T07:00:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "cfbcf5de1b5c2a37",
+      "relevance": 100,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [
+        "🇩🇪 TKMS"
+      ],
+      "countries": [
+        "🇨🇦 캐나다"
+      ],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-08-21 16:00",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "경쟁사 언급",
+        "대상국: 🇨🇦 캐나다",
+        "계약/선정"
+      ]
+    },
+    {
+      "title": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODRwQzhyV1d2dmp1YmRINnRmZXpfSHlaZmRJTjNfSkptSk0tdEFNVTdnYWw2UHBVTHVUdERlR1RWWkxQeXdQdVNJSnRxajF2ek9iOUJzVVpaZm9DRlVwZmdVRFIxQzNJUGJtWjgxUm9uUWVVVzFwLURZU0JpbWhIZHFMY1l1clU?oc=5",
-      "description": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 g-enews.com",
+      "description": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 글로벌이코노믹",
       "published": "2026-08-31T21:29:01+00:00",
       "source": "한화오션 (국내)",
       "id": "76f6037c6e5a6e06",
@@ -98,7 +129,7 @@
         "🇵🇭 필리핀"
       ],
       "program_stage": "계약/선정",
-      "new_today": true,
+      "new_today": false,
       "published_ko": "2026-09-01 06:29",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
@@ -164,36 +195,9 @@
       ]
     },
     {
-      "title": "한화오션 제친 TKMS, 加 잠수함 납기단축 분할건조 추진…유럽 조선연합 가동 - g-enews.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY09HRk1PLTc3Z0ZHTGVZWFlDQlo0VXBVSjVNdnlsdjltM2E3d3lXdms2OE1vQWpzU253Z0hGQWVqWVo1M25zaVhWaGN2S0duSV9obUVqUG1seGN0bWpTTjBGd2FvVmpmM05fR2x5T0l3ZkpOUzcxQkZuckc4OE5pTEhPYmpRR0df?oc=5",
-      "description": "한화오션 제친 TKMS, 加 잠수함 납기단축 분할건조 추진…유럽 조선연합 가동 g-enews.com",
-      "published": "2026-08-18T07:00:00+00:00",
-      "source": "한화오션 (국내)",
-      "id": "0de00b0cd1501bcd",
-      "relevance": 81,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [
-        "🇩🇪 TKMS"
-      ],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-08-18 16:00",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "경쟁사 언급",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "잠수함·수상함 ‘경계’ 허문다…HD현대·한화오션 ‘전선 확대’ - asiatoday.co.kr",
+      "title": "잠수함·수상함 ‘경계’ 허문다…HD현대·한화오션 ‘전선 확대’ - 아시아투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRnRoZUQ3T0NXcjI3R2FHXzJFemxkb25aQzFIV0swNkJJdDZ1U0c4SmFVd0F6djRSNlVJb1ZFTVBqcGhaY2g5MndZWEY1dlgxeTRBS2ZJYm05U0o5MWlyTzJhQmFRUWdTSVpGeEZR?oc=5",
-      "description": "잠수함·수상함 ‘경계’ 허문다…HD현대·한화오션 ‘전선 확대’ asiatoday.co.kr",
+      "description": "잠수함·수상함 ‘경계’ 허문다…HD현대·한화오션 ‘전선 확대’ 아시아투데이",
       "published": "2026-08-24T07:50:47+00:00",
       "source": "HD현대중공업 (국내)",
       "id": "efc6361336b18abc",
