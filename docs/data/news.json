@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-04T08:05:57.050268+09:00",
-  "updated_at_ko": "2026-09-04 08:05",
-  "today": "2026-09-04",
+  "updated_at": "2026-09-05T08:06:11.211763+09:00",
+  "updated_at_ko": "2026-09-05 08:06",
+  "today": "2026-09-05",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -139,11 +139,60 @@
       ]
     },
     {
+      "title": "아르헨티나 잠수함 수주전 '막판 요동'…나발그룹 대신 HD현대중공업 급부상 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNGZab1BRcmFXd0NWbGZmdkRuby1aTlFVUlJ2STRxS1JIQ3c2Qm5YLWdZMHVFZ1A1dHNfUHRhamQ3dFJOR1psQmczTnJEcTY3dW1McTN1bG1sb2ZuYzU1Rm5HZw?oc=5",
+      "description": "아르헨티나 잠수함 수주전 '막판 요동'…나발그룹 대신 HD현대중공업 급부상 더구루",
+      "published": "2026-08-31T01:18:12+00:00",
+      "source": "HD현대중공업 (국내)",
+      "id": "d3c9d2f34c2d7094",
+      "relevance": 90,
+      "companies": [
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-08-31 10:18",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: HD현대중공업",
+        "사업/수출",
+        "계약/선정"
+      ]
+    },
+    {
+      "title": "RF시스템즈, HD현대중공업 공급망 첫 진입… 장보고-II 잠수함에 장비 공급 - 파이낸스스코프",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MFdiUVFLcndGTWJBN3l0c0h1SWV0VmdfdEZnR3RDNHBFRTF4RmJoaFpGcFhPRjREX0ZQcHQ5Z3hOODd5a2lLMW5QaU9MU1lxQU9zbFJtc1NzZUtXc2ozWXdlM0RhLXV1Q2c?oc=5",
+      "description": "RF시스템즈, HD현대중공업 공급망 첫 진입… 장보고-II 잠수함에 장비 공급 파이낸스스코프",
+      "published": "2026-09-04T00:07:00+00:00",
+      "source": "HD현대중공업 (국내)",
+      "id": "b392ba9f5bb21556",
+      "relevance": 75,
+      "companies": [
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-09-04 09:07",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: HD현대중공업",
+        "관련 동향"
+      ]
+    },
+    {
       "title": "잠수함·수상함 ‘경계’ 허문다…HD현대·한화오션 ‘전선 확대’ - 아시아투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRnRoZUQ3T0NXcjI3R2FHXzJFemxkb25aQzFIV0swNkJJdDZ1U0c4SmFVd0F6djRSNlVJb1ZFTVBqcGhaY2g5MndZWEY1dlgxeTRBS2ZJYm05U0o5MWlyTzJhQmFRUWdTSVpGeEZR?oc=5",
       "description": "잠수함·수상함 ‘경계’ 허문다…HD현대·한화오션 ‘전선 확대’ 아시아투데이",
       "published": "2026-08-24T07:00:00+00:00",
-      "source": "한화오션 (국내)",
+      "source": "HD현대중공업 (국내)",
       "id": "efc6361336b18abc",
       "relevance": 75,
       "companies": [
