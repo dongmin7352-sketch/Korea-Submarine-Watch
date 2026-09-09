@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-09T08:06:49.602034+09:00",
-  "updated_at_ko": "2026-09-09 08:06",
-  "today": "2026-09-09",
+  "updated_at": "2026-09-10T08:06:12.066528+09:00",
+  "updated_at_ko": "2026-09-10 08:06",
+  "today": "2026-09-10",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -83,6 +83,34 @@
   ],
   "articles": [
     {
+      "title": "한화오션 6800억 규모 태국 차세대 호위함 우선협상대상자로 뽑혀, 캐나다 잠수함 수주 실패 아픔 딛고 특수선 기회 잡는다 - 허프포스트코리아",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UWDVmS2RfV29BVnFxT09XX1VtRS1ucnpVV1hmQTR0Z1hVSUo5R3RJWGdWSmxlMWRabDJwekRIWkJnaW50bDRDTlAzMllXUjBRc0Ezb3J3Yw?oc=5",
+      "description": "한화오션 6800억 규모 태국 차세대 호위함 우선협상대상자로 뽑혀, 캐나다 잠수함 수주 실패 아픔 딛고 특수선 기회 잡는다 허프포스트코리아",
+      "published": "2026-09-09T02:34:43+00:00",
+      "source": "한화오션 (국내)",
+      "id": "c05aba860efcbf0b",
+      "relevance": 98,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [
+        "🇨🇦 캐나다"
+      ],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-09-09 11:34",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "대상국: 🇨🇦 캐나다",
+        "계약/선정"
+      ]
+    },
+    {
       "title": "한화오션 \"캐나다 잠수함 협력은 촉진제…2032년 첫 인도 계획\" - 매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qU24xNUxUNFg4WnN2eWp1U3ZmMVIyOVJlNEpQRUxJUmEtbUlvZHNOaVhrNktXZFNUY21tcUdPZGo4STZGb200QVRIWEdkZ0loNlE?oc=5",
       "description": "한화오션 \"캐나다 잠수함 협력은 촉진제…2032년 첫 인도 계획\" 매일경제 마켓",
@@ -139,28 +167,56 @@
       ]
     },
     {
-      "title": "아르헨티나 잠수함 수주전 '막판 요동'…나발그룹 대신 HD현대중공업 급부상 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNGZab1BRcmFXd0NWbGZmdkRuby1aTlFVUlJ2STRxS1JIQ3c2Qm5YLWdZMHVFZ1A1dHNfUHRhamQ3dFJOR1psQmczTnJEcTY3dW1McTN1bG1sb2ZuYzU1Rm5HZw?oc=5",
-      "description": "아르헨티나 잠수함 수주전 '막판 요동'…나발그룹 대신 HD현대중공업 급부상 더구루",
-      "published": "2026-08-31T01:18:12+00:00",
+      "title": "RF시스템즈, HD현대중공업과 잠수함 개량 계약 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHLU56eFlvd05VNFBLOFZkMGNYaHRLM0p6UGl0YzF2U0NEUTFla0dKZTZPRXIxdHdGMkM2cE1Oa1Rkc1ZDRFJLMC1hS1ZBYXFjaktVTUpaRk00Mjc0?oc=5",
+      "description": "RF시스템즈, HD현대중공업과 잠수함 개량 계약 뉴스핌",
+      "published": "2026-09-03T23:54:00+00:00",
       "source": "HD현대중공업 (국내)",
-      "id": "d3c9d2f34c2d7094",
+      "id": "79d59e29b2c0734b",
       "relevance": 90,
       "companies": [
         "HD현대중공업"
       ],
       "competitors": [],
       "countries": [],
-      "program_stage": "계약/선정",
+      "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-08-31 10:18",
+      "published_ko": "2026-09-04 08:54",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
       "tags": [
         "기업 언급: HD현대중공업",
         "사업/수출",
-        "계약/선정"
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - dailian.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWXp6NU0tNXo4RDhKdnViZUtiT2tfRE1rOGdFS1BxVzhYaThRcGpQczJnU1p5WWluWlpkT0VYa3RuMDZ5dHh5Tk1BdmRYaks2aGtFeWJPdERYelAyYU1sVDctX21kNHk3UHVaalhzaFZmNWh5VW93MGg2NHRCTWR1ZXNEaWhuYUtoQXJHb3lPUk5ITXVPMG9rQXBRUnVWNFFKSnA0VzZsai04OU12VnlTUVREWnUxamlrcWZReXZKZTZNOGN6MkNjVjk0ZWlZdDZvOTRGN0ZfdmtKQUdWMlBzS3dGc1oxMHBtU0VraHRIbm9ONV9ocjhkZ1ltMDZkNFJHSlpkejE2ZEh4VTlGTWM2MTRORTQ0N2FH?oc=5",
+      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 dailian.co.kr",
+      "published": "2026-09-09T06:38:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "2fcbc470fa2bae20",
+      "relevance": 83,
+      "companies": [
+        "한화오션",
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [
+        "🇵🇭 필리핀"
+      ],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-09-09 15:38",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션, HD현대중공업",
+        "대상국: 🇵🇭 필리핀",
+        "관련 동향"
       ]
     },
     {
