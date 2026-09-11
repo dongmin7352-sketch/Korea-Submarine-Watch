@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-10T08:06:12.066528+09:00",
-  "updated_at_ko": "2026-09-10 08:06",
-  "today": "2026-09-10",
+  "updated_at": "2026-09-11T09:46:37.282483+09:00",
+  "updated_at_ko": "2026-09-11 09:46",
+  "today": "2026-09-11",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -20,8 +20,8 @@
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "title": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODRwQzhyV1d2dmp1YmRINnRmZXpfSHlaZmRJTjNfSkptSk0tdEFNVTdnYWw2UHBVTHVUdERlR1RWWkxQeXdQdVNJSnRxajF2ek9iOUJzVVpaZm9DRlVwZmdVRFIxQzNJUGJtWjgxUm9uUWVVVzFwLURZU0JpbWhIZHFMY1l1clU?oc=5",
       "description": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 글로벌이코노믹",
-      "published": "2026-08-31T21:29:01+00:00",
+      "published": "2026-09-01T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "76f6037c6e5a6e06",
       "relevance": 98,
@@ -155,7 +155,7 @@
       ],
       "program_stage": "계약/선정",
       "new_today": false,
-      "published_ko": "2026-09-01 06:29",
+      "published_ko": "2026-09-01 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -171,7 +171,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHLU56eFlvd05VNFBLOFZkMGNYaHRLM0p6UGl0YzF2U0NEUTFla0dKZTZPRXIxdHdGMkM2cE1Oa1Rkc1ZDRFJLMC1hS1ZBYXFjaktVTUpaRk00Mjc0?oc=5",
       "description": "RF시스템즈, HD현대중공업과 잠수함 개량 계약 뉴스핌",
       "published": "2026-09-03T23:54:00+00:00",
-      "source": "HD현대중공업 (국내)",
+      "source": "국내 잠수함 수출 종합",
       "id": "79d59e29b2c0734b",
       "relevance": 90,
       "companies": [
@@ -192,9 +192,9 @@
       ]
     },
     {
-      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - dailian.co.kr",
+      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - 데일리안",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWXp6NU0tNXo4RDhKdnViZUtiT2tfRE1rOGdFS1BxVzhYaThRcGpQczJnU1p5WWluWlpkT0VYa3RuMDZ5dHh5Tk1BdmRYaks2aGtFeWJPdERYelAyYU1sVDctX21kNHk3UHVaalhzaFZmNWh5VW93MGg2NHRCTWR1ZXNEaWhuYUtoQXJHb3lPUk5ITXVPMG9rQXBRUnVWNFFKSnA0VzZsai04OU12VnlTUVREWnUxamlrcWZReXZKZTZNOGN6MkNjVjk0ZWlZdDZvOTRGN0ZfdmtKQUdWMlBzS3dGc1oxMHBtU0VraHRIbm9ONV9ocjhkZ1ltMDZkNFJHSlpkejE2ZEh4VTlGTWM2MTRORTQ0N2FH?oc=5",
-      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 dailian.co.kr",
+      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 데일리안",
       "published": "2026-09-09T06:38:00+00:00",
       "source": "한화오션 (국내)",
       "id": "2fcbc470fa2bae20",
