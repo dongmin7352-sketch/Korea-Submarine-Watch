@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11T09:46:37.282483+09:00",
-  "updated_at_ko": "2026-09-11 09:46",
-  "today": "2026-09-11",
+  "updated_at": "2026-09-12T09:50:17.054260+09:00",
+  "updated_at_ko": "2026-09-12 09:50",
+  "today": "2026-09-12",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -20,8 +20,8 @@
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -34,8 +34,8 @@
     {
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 3,
       "error": null
     },
     {
@@ -82,6 +82,34 @@
     }
   ],
   "articles": [
+    {
+      "title": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' - biz.newdaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQXkwcGVxUUdpU0hET0pScllFcFZ2QXROVDhUY19jMkJJQTJRbHg5aUFIU2FNRlAtODA1T0xvLTJTS0s4RXFqaE1MRkcxM2lGeUx2MjNyc3d3RWtUSmxVbnlUMXR2T2pxT3owNXdaSWZoMFlFRzlHTm9iRdIBgAFBVV95cUxOQThaWERtNGdjSWZnUFVjZm50aGZrNGVIUmF0RE8wbTVCbnBRT0FhWlZoX005aWpNaERmdzNWeThRejRBZV92aDgzUFJtT1JBenNxLTdpSV9Ec3J6U1FuS0hiZ3A2RmdZaTBHa000TzdGOGUzQXRKS0pOU1dqSHUzVA?oc=5",
+      "description": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' biz.newdaily.co.kr",
+      "published": "2026-09-11T01:17:21+00:00",
+      "source": "한화오션 (국내)",
+      "id": "dec360b8f53155b8",
+      "relevance": 98,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [
+        "🇵🇭 필리핀"
+      ],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-09-11 10:17",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "대상국: 🇵🇭 필리핀",
+        "계약/선정"
+      ]
+    },
     {
       "title": "한화오션 6800억 규모 태국 차세대 호위함 우선협상대상자로 뽑혀, 캐나다 잠수함 수주 실패 아픔 딛고 특수선 기회 잡는다 - 허프포스트코리아",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UWDVmS2RfV29BVnFxT09XX1VtRS1ucnpVV1hmQTR0Z1hVSUo5R3RJWGdWSmxlMWRabDJwekRIWkJnaW50bDRDTlAzMllXUjBRc0Ezb3J3Yw?oc=5",
@@ -171,7 +199,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHLU56eFlvd05VNFBLOFZkMGNYaHRLM0p6UGl0YzF2U0NEUTFla0dKZTZPRXIxdHdGMkM2cE1Oa1Rkc1ZDRFJLMC1hS1ZBYXFjaktVTUpaRk00Mjc0?oc=5",
       "description": "RF시스템즈, HD현대중공업과 잠수함 개량 계약 뉴스핌",
       "published": "2026-09-03T23:54:00+00:00",
-      "source": "국내 잠수함 수출 종합",
+      "source": "HD현대중공업 (국내)",
       "id": "79d59e29b2c0734b",
       "relevance": 90,
       "companies": [
@@ -243,30 +271,6 @@
       "tags": [
         "기업 언급: 한화오션",
         "대상국: 🇵🇭 필리핀",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "RF시스템즈, HD현대중공업 공급망 첫 진입… 장보고-II 잠수함에 장비 공급 - 파이낸스스코프",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MFdiUVFLcndGTWJBN3l0c0h1SWV0VmdfdEZnR3RDNHBFRTF4RmJoaFpGcFhPRjREX0ZQcHQ5Z3hOODd5a2lLMW5QaU9MU1lxQU9zbFJtc1NzZUtXc2ozWXdlM0RhLXV1Q2c?oc=5",
-      "description": "RF시스템즈, HD현대중공업 공급망 첫 진입… 장보고-II 잠수함에 장비 공급 파이낸스스코프",
-      "published": "2026-09-04T00:07:00+00:00",
-      "source": "HD현대중공업 (국내)",
-      "id": "b392ba9f5bb21556",
-      "relevance": 75,
-      "companies": [
-        "HD현대중공업"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-09-04 09:07",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: HD현대중공업",
         "관련 동향"
       ]
     }
