@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-12T09:50:17.054260+09:00",
-  "updated_at_ko": "2026-09-12 09:50",
-  "today": "2026-09-12",
+  "updated_at": "2026-09-13T09:33:12.892714+09:00",
+  "updated_at_ko": "2026-09-13 09:33",
+  "today": "2026-09-13",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -35,7 +35,7 @@
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
       "found_today": true,
-      "count_today": 3,
+      "count_today": 2,
       "error": null
     },
     {
@@ -76,18 +76,18 @@
     {
       "source": "Google News 종합(영문)",
       "query": "Hanwha Ocean submarine OR HD Hyundai Heavy Industries submarine OR South Korea submarine export",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     }
   ],
   "articles": [
     {
-      "title": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' - biz.newdaily.co.kr",
+      "title": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' - 뉴데일리",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQXkwcGVxUUdpU0hET0pScllFcFZ2QXROVDhUY19jMkJJQTJRbHg5aUFIU2FNRlAtODA1T0xvLTJTS0s4RXFqaE1MRkcxM2lGeUx2MjNyc3d3RWtUSmxVbnlUMXR2T2pxT3owNXdaSWZoMFlFRzlHTm9iRdIBgAFBVV95cUxOQThaWERtNGdjSWZnUFVjZm50aGZrNGVIUmF0RE8wbTVCbnBRT0FhWlZoX005aWpNaERmdzNWeThRejRBZV92aDgzUFJtT1JBenNxLTdpSV9Ec3J6U1FuS0hiZ3A2RmdZaTBHa000TzdGOGUzQXRKS0pOU1dqSHUzVA?oc=5",
-      "description": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' biz.newdaily.co.kr",
+      "description": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' 뉴데일리",
       "published": "2026-09-11T01:17:21+00:00",
-      "source": "한화오션 (국내)",
+      "source": "HD현대중공업 (국내)",
       "id": "dec360b8f53155b8",
       "relevance": 98,
       "companies": [
@@ -220,9 +220,9 @@
       ]
     },
     {
-      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - 데일리안",
+      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - dailian.co.kr",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWXp6NU0tNXo4RDhKdnViZUtiT2tfRE1rOGdFS1BxVzhYaThRcGpQczJnU1p5WWluWlpkT0VYa3RuMDZ5dHh5Tk1BdmRYaks2aGtFeWJPdERYelAyYU1sVDctX21kNHk3UHVaalhzaFZmNWh5VW93MGg2NHRCTWR1ZXNEaWhuYUtoQXJHb3lPUk5ITXVPMG9rQXBRUnVWNFFKSnA0VzZsai04OU12VnlTUVREWnUxamlrcWZReXZKZTZNOGN6MkNjVjk0ZWlZdDZvOTRGN0ZfdmtKQUdWMlBzS3dGc1oxMHBtU0VraHRIbm9ONV9ocjhkZ1ltMDZkNFJHSlpkejE2ZEh4VTlGTWM2MTRORTQ0N2FH?oc=5",
-      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 데일리안",
+      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 dailian.co.kr",
       "published": "2026-09-09T06:38:00+00:00",
       "source": "한화오션 (국내)",
       "id": "2fcbc470fa2bae20",
