@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-13T09:33:12.892714+09:00",
-  "updated_at_ko": "2026-09-13 09:33",
-  "today": "2026-09-13",
+  "updated_at": "2026-09-14T09:36:34.205891+09:00",
+  "updated_at_ko": "2026-09-14 09:36",
+  "today": "2026-09-14",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -35,7 +35,7 @@
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
       "found_today": true,
-      "count_today": 2,
+      "count_today": 9,
       "error": null
     },
     {
@@ -76,18 +76,46 @@
     {
       "source": "Google News 종합(영문)",
       "query": "Hanwha Ocean submarine OR HD Hyundai Heavy Industries submarine OR South Korea submarine export",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     }
   ],
   "articles": [
     {
+      "title": "한화오션-HD현대 필리핀 1.6조 잠수함 수주전...승부수는 '수빅 현대화' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeW93bzkwb2czLVE1Q2l2WDVnQmZFQkpuRGZrR1BXSWRtMjJuWGthQjFzLU5FQ0ZGWG5vVkxOYnkyeTJpSURCRTVXV3BmWWp3eUpmamtENFBUdlU3N3FSWTdkNW9PLVlZVzZzZXFrb0U2N1Q0Szk1YzhoWHpFN0MxTk5yYmNhVHpn?oc=5",
+      "description": "한화오션-HD현대 필리핀 1.6조 잠수함 수주전...승부수는 '수빅 현대화' 글로벌이코노믹",
+      "published": "2026-09-13T05:45:51+00:00",
+      "source": "한화오션 (국내)",
+      "id": "366cca09d1346bd6",
+      "relevance": 98,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [
+        "🇵🇭 필리핀"
+      ],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-09-13 14:45",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "대상국: 🇵🇭 필리핀",
+        "계약/선정"
+      ]
+    },
+    {
       "title": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' - 뉴데일리",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zQXkwcGVxUUdpU0hET0pScllFcFZ2QXROVDhUY19jMkJJQTJRbHg5aUFIU2FNRlAtODA1T0xvLTJTS0s4RXFqaE1MRkcxM2lGeUx2MjNyc3d3RWtUSmxVbnlUMXR2T2pxT3owNXdaSWZoMFlFRzlHTm9iRdIBgAFBVV95cUxOQThaWERtNGdjSWZnUFVjZm50aGZrNGVIUmF0RE8wbTVCbnBRT0FhWlZoX005aWpNaERmdzNWeThRejRBZV92aDgzUFJtT1JBenNxLTdpSV9Ec3J6U1FuS0hiZ3A2RmdZaTBHa000TzdGOGUzQXRKS0pOU1dqSHUzVA?oc=5",
       "description": "2조원 필리핀 잠수함 잡아라 … HD현대重·한화오션 '수주 채비' 뉴데일리",
       "published": "2026-09-11T01:17:21+00:00",
-      "source": "HD현대중공업 (국내)",
+      "source": "한화오션 (국내)",
       "id": "dec360b8f53155b8",
       "relevance": 98,
       "companies": [
@@ -220,9 +248,9 @@
       ]
     },
     {
-      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - dailian.co.kr",
+      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - 데일리안",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWXp6NU0tNXo4RDhKdnViZUtiT2tfRE1rOGdFS1BxVzhYaThRcGpQczJnU1p5WWluWlpkT0VYa3RuMDZ5dHh5Tk1BdmRYaks2aGtFeWJPdERYelAyYU1sVDctX21kNHk3UHVaalhzaFZmNWh5VW93MGg2NHRCTWR1ZXNEaWhuYUtoQXJHb3lPUk5ITXVPMG9rQXBRUnVWNFFKSnA0VzZsai04OU12VnlTUVREWnUxamlrcWZReXZKZTZNOGN6MkNjVjk0ZWlZdDZvOTRGN0ZfdmtKQUdWMlBzS3dGc1oxMHBtU0VraHRIbm9ONV9ocjhkZ1ltMDZkNFJHSlpkejE2ZEh4VTlGTWM2MTRORTQ0N2FH?oc=5",
-      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 dailian.co.kr",
+      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 데일리안",
       "published": "2026-09-09T06:38:00+00:00",
       "source": "한화오션 (국내)",
       "id": "2fcbc470fa2bae20",
