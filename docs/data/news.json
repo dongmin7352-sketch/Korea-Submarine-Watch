@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T09:36:34.205891+09:00",
-  "updated_at_ko": "2026-09-14 09:36",
-  "today": "2026-09-14",
+  "updated_at": "2026-09-15T10:07:34.326029+09:00",
+  "updated_at_ko": "2026-09-15 10:07",
+  "today": "2026-09-15",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -27,15 +27,15 @@
     {
       "source": "연합뉴스",
       "query": "site:yna.co.kr 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": true,
-      "count_today": 9,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -83,11 +83,11 @@
   ],
   "articles": [
     {
-      "title": "한화오션-HD현대 필리핀 1.6조 잠수함 수주전...승부수는 '수빅 현대화' - 글로벌이코노믹",
+      "title": "한화오션-HD현대 필리핀 1.6조 잠수함 수주전...승부수는 '수빅 현대화' - g-enews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeW93bzkwb2czLVE1Q2l2WDVnQmZFQkpuRGZrR1BXSWRtMjJuWGthQjFzLU5FQ0ZGWG5vVkxOYnkyeTJpSURCRTVXV3BmWWp3eUpmamtENFBUdlU3N3FSWTdkNW9PLVlZVzZzZXFrb0U2N1Q0Szk1YzhoWHpFN0MxTk5yYmNhVHpn?oc=5",
-      "description": "한화오션-HD현대 필리핀 1.6조 잠수함 수주전...승부수는 '수빅 현대화' 글로벌이코노믹",
+      "description": "한화오션-HD현대 필리핀 1.6조 잠수함 수주전...승부수는 '수빅 현대화' g-enews.com",
       "published": "2026-09-13T05:45:51+00:00",
-      "source": "한화오션 (국내)",
+      "source": "HD현대중공업 (국내)",
       "id": "366cca09d1346bd6",
       "relevance": 98,
       "companies": [
@@ -195,9 +195,9 @@
       ]
     },
     {
-      "title": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 - 글로벌이코노믹",
+      "title": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 - g-enews.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODRwQzhyV1d2dmp1YmRINnRmZXpfSHlaZmRJTjNfSkptSk0tdEFNVTdnYWw2UHBVTHVUdERlR1RWWkxQeXdQdVNJSnRxajF2ek9iOUJzVVpaZm9DRlVwZmdVRFIxQzNJUGJtWjgxUm9uUWVVVzFwLURZU0JpbWhIZHFMY1l1clU?oc=5",
-      "description": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 글로벌이코노믹",
+      "description": "HD현대·한화오션, 2조원 필리핀 잠수함 수주전서 격돌…佛 네이벌·伊 피칸티에리와 4파전 g-enews.com",
       "published": "2026-09-01T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "76f6037c6e5a6e06",
@@ -280,7 +280,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5veDk2ZWF0eU9rVWEtUlliMVAzLVFDNEh6SzJiT0lncG9TUGhoVlViYnloX0dKVlBMeVdLc2o2RDVyMGZWR3h5VG9PblR4akxRMXRBcFRJM2JieHNGTXJQazBBMnRMNS1KTGRKQkVn?oc=5",
       "description": "4조 태국 호위함·2조 필리핀 잠수함 격돌…HD현대·한화오션 동남아 ‘출혈 경쟁’ 조짐 아시아투데이",
       "published": "2026-09-07T07:20:20+00:00",
-      "source": "한화오션 (국내)",
+      "source": "HD현대중공업 (국내)",
       "id": "872f48ca00d0b3ff",
       "relevance": 83,
       "companies": [
