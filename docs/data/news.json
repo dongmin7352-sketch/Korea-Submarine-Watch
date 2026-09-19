@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-18T09:57:27.157820+09:00",
-  "updated_at_ko": "2026-09-18 09:57",
-  "today": "2026-09-18",
+  "updated_at": "2026-09-19T09:53:23.199234+09:00",
+  "updated_at_ko": "2026-09-19 09:53",
+  "today": "2026-09-19",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 2,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "연합뉴스",
       "query": "site:yna.co.kr 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -55,8 +55,8 @@
     {
       "source": "Naval Technology",
       "query": "site:naval-technology.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -76,8 +76,8 @@
     {
       "source": "Google News 종합(영문)",
       "query": "Hanwha Ocean submarine OR HD Hyundai Heavy Industries submarine OR South Korea submarine export",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     }
   ],
@@ -112,9 +112,34 @@
       ]
     },
     {
-      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - 데일리안",
+      "title": "한화오션, 차세대 잠수함 '오션 2000' 전면에…칠레 수주전 '고삐' - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vZkk4MmZEX3VxVi04ZUN1YWtxRDhLalJpbjI4UlBQUlVVaGs3UWs5TjZRQzhXb0I4LVk1WWh5MGN1QXdsSzhIcllNTVdGR3NOUUMxMGdrYmNuVTRPQlZnaWNadw?oc=5",
+      "description": "한화오션, 차세대 잠수함 '오션 2000' 전면에…칠레 수주전 '고삐' 더구루",
+      "published": "2026-09-18T22:55:36+00:00",
+      "source": "한화오션 (국내)",
+      "id": "2820cbace6b3442b",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "계약/선정",
+      "new_today": true,
+      "published_ko": "2026-09-19 07:55",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "계약/선정"
+      ]
+    },
+    {
+      "title": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 - dailian.co.kr",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWXp6NU0tNXo4RDhKdnViZUtiT2tfRE1rOGdFS1BxVzhYaThRcGpQczJnU1p5WWluWlpkT0VYa3RuMDZ5dHh5Tk1BdmRYaks2aGtFeWJPdERYelAyYU1sVDctX21kNHk3UHVaalhzaFZmNWh5VW93MGg2NHRCTWR1ZXNEaWhuYUtoQXJHb3lPUk5ITXVPMG9rQXBRUnVWNFFKSnA0VzZsai04OU12VnlTUVREWnUxamlrcWZReXZKZTZNOGN6MkNjVjk0ZWlZdDZvOTRGN0ZfdmtKQUdWMlBzS3dGc1oxMHBtU0VraHRIbm9ONV9ocjhkZ1ltMDZkNFJHSlpkejE2ZEh4VTlGTWM2MTRORTQ0N2FH?oc=5",
-      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 데일리안",
+      "description": "태국 다음은 필리핀…‘2조 잠수함’ 겨누는 HD현대중공업·한화오션 dailian.co.kr",
       "published": "2026-09-09T06:38:00+00:00",
       "source": "HD현대중공업 (국내)",
       "id": "2fcbc470fa2bae20",
