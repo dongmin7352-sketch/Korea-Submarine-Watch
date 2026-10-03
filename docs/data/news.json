@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-02T10:56:04.280896+09:00",
-  "updated_at_ko": "2026-10-02 10:56",
-  "today": "2026-10-02",
+  "updated_at": "2026-10-03T10:38:55.749846+09:00",
+  "updated_at_ko": "2026-10-03 10:38",
+  "today": "2026-10-03",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -216,9 +216,9 @@
       ]
     },
     {
-      "title": "20억 달러 필리핀 잠수함 사업, 한화오션·HD현대중 가를 승부처는 '배가 아닌 기지' - g-enews.com",
+      "title": "20억 달러 필리핀 잠수함 사업, 한화오션·HD현대중 가를 승부처는 '배가 아닌 기지' - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUtmZklHVlZpaFBqc3lOUXdkVHZQZ1dJMUVRZG9MSkU3U001MmVaVVNEQko0Nms5N0Q5b1ZqaUFna2ZldkMzMjhJSEJZOUJMMml0ZEQxdjlwZ0hrWFVYaktxUmF0Si14Q2FhU2JmMmxnZ3d0cllKNFd1Xy1vc20zLVF4clFMT1M5?oc=5",
-      "description": "20억 달러 필리핀 잠수함 사업, 한화오션·HD현대중 가를 승부처는 '배가 아닌 기지' g-enews.com",
+      "description": "20억 달러 필리핀 잠수함 사업, 한화오션·HD현대중 가를 승부처는 '배가 아닌 기지' 글로벌이코노믹",
       "published": "2026-09-27T21:28:46+00:00",
       "source": "한화오션 (국내)",
       "id": "943333bc6a68adf7",
