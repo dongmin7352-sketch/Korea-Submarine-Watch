@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T10:58:50.904144+09:00",
-  "updated_at_ko": "2026-10-07 10:58",
-  "today": "2026-10-07",
+  "updated_at": "2026-10-08T11:24:00.018972+09:00",
+  "updated_at_ko": "2026-10-08 11:24",
+  "today": "2026-10-08",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -20,8 +20,8 @@
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": true,
-      "count_today": 2,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -168,12 +168,12 @@
       ]
     },
     {
-      "title": "[조선업 경쟁력 점검] ②한화오션, LNG 상용화 경험 '친환경선·잠수함'으로 확대 - FETV",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ODRiQnNUQmhDRTZ3aEhoS3NvdVBReXZ5aElnUlh1VXM0a2NCekoyUUVydGZQaXRBS29wWDVmUmtKNDh1Z3MxanhITndFdHhmLV82VXF5ckhlZ2dpLUtucHFreTZxVWgz?oc=5",
-      "description": "[조선업 경쟁력 점검] ②한화오션, LNG 상용화 경험 '친환경선·잠수함'으로 확대 FETV",
-      "published": "2026-09-29T22:00:00+00:00",
+      "title": "‘잠수함 명가’의 벽을 넘는 한화오션, 글로벌 ‘함정 메카’로 도약 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZ3ZtNzd5ZHh6bllZMnJONWFBdUg3SVhPWHRFRkZLaEhsQmhJd1JQYW1sdjhqQTRHbU8xT0pyWVVQMW5uTU9KbEoxRHpfUXYxdVdlUVE3ME8xcktZak02NTlUVllPVkxPVy02cmlR?oc=5",
+      "description": "‘잠수함 명가’의 벽을 넘는 한화오션, 글로벌 ‘함정 메카’로 도약 아시아투데이",
+      "published": "2026-10-02T01:32:00+00:00",
       "source": "한화오션 (국내)",
-      "id": "12ab69c44c583a70",
+      "id": "c20d2bbb53d74599",
       "relevance": 75,
       "companies": [
         "한화오션"
@@ -182,7 +182,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-09-30 07:00",
+      "published_ko": "2026-10-02 10:32",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
