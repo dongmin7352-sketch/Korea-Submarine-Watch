@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T10:27:35.411585+09:00",
-  "updated_at_ko": "2026-10-20 10:27",
-  "today": "2026-10-20",
+  "updated_at": "2026-10-21T10:11:50.271933+09:00",
+  "updated_at_ko": "2026-10-21 10:11",
+  "today": "2026-10-21",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
       "found_today": true,
-      "count_today": 1,
+      "count_today": 2,
       "error": null
     },
     {
@@ -137,7 +137,7 @@
       "title": "한화오션의 필리핀 잠수함 제안…2800t급 2척에 기지·훈련·정비까지 담았다 - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHRLQ01fbmVDR2hnUVRGcEc0dFlkMFJFelZGWkFqOE51YXJTSTBLTUJtbVhJTTVPUUljZGE3bmxpTURwaVdWeE9oLWMyLTkwYlk5d0IxV29kb3Z5bmNPQnZTODhEdnA4VEltUFJfRGJURkFaaHljbXU5eU1SUlhxYktPUFlfMVl4?oc=5",
       "description": "한화오션의 필리핀 잠수함 제안…2800t급 2척에 기지·훈련·정비까지 담았다 글로벌이코노믹",
-      "published": "2026-10-12T01:45:40+00:00",
+      "published": "2026-10-12T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "d7c15d05843d2980",
       "relevance": 83,
@@ -150,13 +150,61 @@
       ],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-10-12 10:45",
+      "published_ko": "2026-10-12 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
       "tags": [
         "기업 언급: 한화오션",
         "대상국: 🇵🇭 필리핀",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 핵추진잠수함 개발 본격 준비…원자력 전문인력 채용 - 해사신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZlhCSEVpSU1vNS1PMHBJclJuQ3RqMjNlVFJsOU5rNkxpZjBhQl9FaHVoVzZtNE5GWnZqWHFUc1RmOVBJaWdJZmswNEZfQ1Z0U3NfR1pmekFyNnN1Q2NOem50bHZPbXpaOVJz?oc=5",
+      "description": "한화오션, 핵추진잠수함 개발 본격 준비…원자력 전문인력 채용 해사신문",
+      "published": "2026-10-21T00:49:14+00:00",
+      "source": "한화오션 (국내)",
+      "id": "1044571b067d1382",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": true,
+      "published_ko": "2026-10-21 09:49",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "독일 잠수함 쓰던 그리스 바다…한화오션, 다목적 발사관 앞세워 뚫는다 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2Z2dXpyUWhfa20zTEpCM1NPZFIwV3FBR3BWSzZqM01kdnkwcElMVWloTWVCOERQMlJoN2pGNFNsdS1WUjFFeTFyTU5QVFJ2U003VlJUdnRIa2UzajlUUnRMRnJwWGR3NGY3QTFTc2E0QXVibFpjN2lJUnc4alpzZGJ5bFlXanVV?oc=5",
+      "description": "독일 잠수함 쓰던 그리스 바다…한화오션, 다목적 발사관 앞세워 뚫는다 글로벌이코노믹",
+      "published": "2026-10-20T21:55:45+00:00",
+      "source": "한화오션 (국내)",
+      "id": "6a7bd17b9f6589b8",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": true,
+      "published_ko": "2026-10-21 06:55",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
         "관련 동향"
       ]
     },
@@ -181,6 +229,30 @@
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
       "tags": [
         "기업 언급: HD현대중공업",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, '핵추진잠수함 설계 등 전문인력' 공채...오는 25일까지 - 거제저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUNmd3aHhDT2hxeHRWU1liQm10eTJpcFFkMnhSTlgtckxDQWxJTWxLUUNfdUhOV2RDeUxRd3VtUm10SVVnV0lvWVdLbE1iT2g4OHN0cVNVWDRCcFdyMkxNc19PWGNOb2k1NXRRVmlNQXBVMkU?oc=5",
+      "description": "한화오션, '핵추진잠수함 설계 등 전문인력' 공채...오는 25일까지 거제저널",
+      "published": "2026-10-16T07:00:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "ff976d1b8b995af4",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-10-16 16:00",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
         "관련 동향"
       ]
     },
@@ -257,12 +329,12 @@
       ]
     },
     {
-      "title": "\"핵추진잠수함 사업 본격화\"…한화오션, 장보고N개발단 신설하고 인력 모집 - 국제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80MS1mYzV3dUdxYkZMZHQ4SDE1dmFkR1JEY0pZLXBjLWdmcm9HZmY2LTRpV2tNS0hSbEJCQ2xtVC1DTVY4RWlFcTZKUlBJeHBYMkEzRTZJTmhvak5RZ3Y0Y0RKQS1ianlOampLMzdR?oc=5",
-      "description": "\"핵추진잠수함 사업 본격화\"…한화오션, 장보고N개발단 신설하고 인력 모집 국제뉴스",
-      "published": "2026-10-12T13:27:25+00:00",
+      "title": "한화오션, 핵추진잠수함 전담 조직 신설…원자력 전문가 확보 나서 - 아시아타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IeDMwbVp3NkpqMlgxdFlPSnNySVJUTGNMSHMzekNPajRDbzRjZGNjMncwQlcxYVZFSmU4Qm5JUlpqZU1sUlpOdHIyczl3ejc3OFAzcUo3YnBBTDF3Mnc?oc=5",
+      "description": "한화오션, 핵추진잠수함 전담 조직 신설…원자력 전문가 확보 나서 아시아타임즈",
+      "published": "2026-10-13T07:00:00+00:00",
       "source": "한화오션 (국내)",
-      "id": "be3ff39449bf4844",
+      "id": "29b127c53412916e",
       "relevance": 75,
       "companies": [
         "한화오션"
@@ -271,7 +343,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-10-12 22:27",
+      "published_ko": "2026-10-13 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -305,34 +377,10 @@
       ]
     },
     {
-      "title": "한화오션, 핵추진잠수함 사업 잰걸음…원자력 전문인력 채용 - ER 이코노믹리뷰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KM093dHluaDZFMDU1QnJWRGpnMVFFN29RRUFyU1YwU1ZQdXhBRHR3NGxvNHpLZV9TZWRsYTFoTlJnZmpQSEFXUWFtOG9nLVNxUno3cGZWWTFPdUUxYjk2UWhRbW5id2hHdHNnNA?oc=5",
-      "description": "한화오션, 핵추진잠수함 사업 잰걸음…원자력 전문인력 채용 ER 이코노믹리뷰",
-      "published": "2026-10-12T07:41:01+00:00",
-      "source": "한화오션 (국내)",
-      "id": "2a61f6b6b0de7929",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 16:41",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
       "title": "한화오션, 핵추진잠수함 개발 준비 - 디일렉",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQd3hyTEJPTU5BWl9vWW5aU3FEVDF4emlmMF9YN0VZckZ4bmNIZFBqWEpmczBqS0NEdl9OZk91em93VFhwQVZ0T0JjZlktWndhbklwdDBuNjA3RjM5TGRLODg5R0taUQ?oc=5",
       "description": "한화오션, 핵추진잠수함 개발 준비 디일렉",
-      "published": "2026-10-12T07:25:01+00:00",
+      "published": "2026-10-12T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "8ff3e3e275d3a3aa",
       "relevance": 75,
@@ -343,7 +391,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-10-12 16:25",
+      "published_ko": "2026-10-12 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -356,7 +404,7 @@
       "title": "\"핵잠수함 경력직 모십니다\"…한화오션, 정부 사업 발맞춰 조직 신설 - 연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLUxBTUpKbTdUZUpWLU85WklJZ3NzaU02R0hTcXc2VEU0YmZCN0NXdUs3YjF5YmVjaU1sTF9EZWpON0FVYzE0QXVfTGNzNkV0VG5IclNoN1JtQ0tmWnZ4ZHoxLWp2OTZ6amRwc2pZd1Q?oc=5",
       "description": "\"핵잠수함 경력직 모십니다\"…한화오션, 정부 사업 발맞춰 조직 신설 연합인포맥스",
-      "published": "2026-10-12T07:12:49+00:00",
+      "published": "2026-10-12T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "26ea0ea6bca7cef9",
       "relevance": 75,
@@ -367,7 +415,103 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-10-12 16:12",
+      "published_ko": "2026-10-12 16:00",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 원자력 잠수함 전문 인력 대거 확보 나선다 - 거제신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRWGxpbVNMVTE3cHBfOFA2WFlZX0otVW1GQVM2OXFIQTNFTlRFWE5kbUNrTDlSdXlPeU9wV2JWNWFyOG1TeFpya2tZZDI1STVhVnlJMTNvMXIxUEZWYkp3RTN6c0pOTHo4ZG1RQTl3?oc=5",
+      "description": "한화오션, 원자력 잠수함 전문 인력 대거 확보 나선다 거제신문",
+      "published": "2026-10-12T07:00:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "48b81f17659c7d25",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-10-12 16:00",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 핵추진잠수함 전문인력 채용⋯'장보고 N사업' 속도 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGVscWVJb2lFd2h4RU94bmlLWGRHMFhLUjlDZWdkT19jSEUweXNhSFRiSmdpaGZNTVBoT2ozZW9ITElXZEgxcXFMSQ?oc=5",
+      "description": "한화오션, 핵추진잠수함 전문인력 채용⋯'장보고 N사업' 속도 아이뉴스24",
+      "published": "2026-10-12T07:00:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "d5d6b540acc1c8cf",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-10-12 16:00",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 핵추진잠수함 전담 조직 신설하고 경력 채용 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UQ1haaVBRc2paUm8wd3BsQkRhLXpiRHpHTmcyTElRNXJlZGlHZDdHTXo4OE1GWXI1YjFHOVZITUgwSzVXUjdUZmRFZHFBSlkwZHfSAVNBVV95cUxNWXBJU0xmUlZQcWxPME14QzRBZUJ6ZjN5Z29JMGVJc1JCN0V5WVNQWW4xR1dDZnU5LW9LODBKWGhXeGJ5djZrSWEwMDB5VVpQMENkcw?oc=5",
+      "description": "한화오션, 핵추진잠수함 전담 조직 신설하고 경력 채용 서울경제",
+      "published": "2026-10-12T07:00:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "7a8717bf659d6ce8",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-10-12 16:00",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 핵추진잠수함 개발체계 구축 시동…5개 분야 경력 채용 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBTjJhdnVBSVpPT3VnMXgzc2tHY01sYXRzMzVNd3V3TEx3eW9zY1dtWEZjYjkzZGdFWXptSVlGVjd2LXp3RkFrb1VNeW1LY19ENU51SDJueldZZUdocERWVtIBeEFVX3lxTE92aWJmQWhKTlVSeDFBa1RFejRoRS1jZTFCUW0zVWZpeF8xdlVIbnNaaDEyeWtMT1FkSmtQWC1ETm9tRHllY0pBQjJmQnVQcXJ2Qi14dmZFSzhIYTZST0l4azZ4N0FmZVphTmhfc1B4d3ItT0pHQ0x6eg?oc=5",
+      "description": "한화오션, 핵추진잠수함 개발체계 구축 시동…5개 분야 경력 채용 뉴시스",
+      "published": "2026-10-12T07:00:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "78a7cb0302ba70d6",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-10-12 16:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -416,78 +560,6 @@
       "program_stage": "관련 동향",
       "new_today": false,
       "published_ko": "2026-10-12 14:51",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "[HR] 한화오션, 핵추진잠수함 건조 사업 본격화...원자력 추진 함정 분야 경력 직원 채용 - 리뷰타임스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR2N6VUJIMzVablFyd1FyRDk0a29zZ25EQ1hzb0FxcU1uaEVkWGdkVFVHRHVSYmtvd3MyN1dBS21NOW9aRjFuVV9BUk1Cb1VIbENMU25TYzEwRHl1WlRrWGkyazd2ajVlMkZ1dkt1WmQ?oc=5",
-      "description": "[HR] 한화오션, 핵추진잠수함 건조 사업 본격화...원자력 추진 함정 분야 경력 직원 채용 리뷰타임스",
-      "published": "2026-10-12T05:33:33+00:00",
-      "source": "한화오션 (국내)",
-      "id": "045d32c819af5d54",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-10-12 14:33",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "한화오션 원자력 추진 함정 분야 전문인력 모집 : '장보고 I·II·III' 건조 경쟁력 '핵잠수함'으로 옮긴다 - 허프포스트코리아",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBRzZOX0JNc2dmUUpPSVIzQWZTTE9tME91NF83cEFabzQ2U0RNbWd0VF8yT1d3bVBJYzRzdFgzckU0SUZ6ZUU0aTFjZTIxVEhoVUtYcS1jSQ?oc=5",
-      "description": "한화오션 원자력 추진 함정 분야 전문인력 모집 : '장보고 I·II·III' 건조 경쟁력 '핵잠수함'으로 옮긴다 허프포스트코리아",
-      "published": "2026-10-12T05:21:25+00:00",
-      "source": "한화오션 (국내)",
-      "id": "0f4799e681c6ce11",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-10-12 14:21",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "한화오션, 핵추진잠수함 전문인력 채용⋯'장보고 N사업' 속도 - 아이뉴스24",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saGVscWVJb2lFd2h4RU94bmlLWGRHMFhLUjlDZWdkT19jSEUweXNhSFRiSmdpaGZNTVBoT2ozZW9ITElXZEgxcXFMSQ?oc=5",
-      "description": "한화오션, 핵추진잠수함 전문인력 채용⋯'장보고 N사업' 속도 아이뉴스24",
-      "published": "2026-10-12T04:23:27+00:00",
-      "source": "한화오션 (국내)",
-      "id": "d5d6b540acc1c8cf",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 13:23",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -569,30 +641,6 @@
       ]
     },
     {
-      "title": "한화오션, 핵잠 전문인력 모집…`장보고N` 대응 강화 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10M0QtODJ2VS0tcXFzUHpPN0tLY2VkcmpJSl8yYkhPXzUtNV8tRnlZcDZZemlYS0R6OUlhLXdtV2tsRkN6dnBOTDU1WTJGMGtnRlExQUk4d1F6VXl2Q1llQXVDcDY?oc=5",
-      "description": "한화오션, 핵잠 전문인력 모집…`장보고N` 대응 강화 디지털데일리",
-      "published": "2026-10-12T02:47:11+00:00",
-      "source": "한화오션 (국내)",
-      "id": "223a39fd6b7dd376",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 11:47",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
       "title": "한화오션, 정부 핵잠수함 추진 맞춰 경력 전문가들 채용 - 연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmtUdjhkNm5XX2labFluMEw5RVZBQ2R6S0JKLWdmM1lhVS1FblphVXNneUJvYzN1cjR1VHV1MFhqRDdIUHlUZ1JHSkFxeWZPcUhiSUlUTHVKUmwxLUZFWGw1RG1JQkk?oc=5",
       "description": "한화오션, 정부 핵잠수함 추진 맞춰 경력 전문가들 채용 연합뉴스TV",
@@ -608,30 +656,6 @@
       "program_stage": "관련 동향",
       "new_today": false,
       "published_ko": "2026-10-12 11:45",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "한화오션, 핵추진잠수함 전담 조직 신설하고 경력 채용 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UQ1haaVBRc2paUm8wd3BsQkRhLXpiRHpHTmcyTElRNXJlZGlHZDdHTXo4OE1GWXI1YjFHOVZITUgwSzVXUjdUZmRFZHFBSlkwZHfSAVNBVV95cUxNWXBJU0xmUlZQcWxPME14QzRBZUJ6ZjN5Z29JMGVJc1JCN0V5WVNQWW4xR1dDZnU5LW9LODBKWGhXeGJ5djZrSWEwMDB5VVpQMENkcw?oc=5",
-      "description": "한화오션, 핵추진잠수함 전담 조직 신설하고 경력 채용 서울경제",
-      "published": "2026-10-12T02:35:41+00:00",
-      "source": "한화오션 (국내)",
-      "id": "7a8717bf659d6ce8",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 11:35",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
@@ -719,30 +743,6 @@
       "published": "2026-10-12T01:53:29+00:00",
       "source": "한화오션 (국내)",
       "id": "e29f01a6438a627b",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 10:53",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "'장보고 N 사업' 시동…한화오션, 원자력 함정 전담 조직 신설 - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Q3Z3SlEtNmRHc2JLc05FWjlWU3JvdWpQTWZVVmptcG13ZHZRbmZJZXBnZjR4bWdsa3h2cldvVWE3R2ZvVVBicnFOdkw3VjdwbnU2U0gyeGVOWHRrTUxjaHc1MG1OeDREVnB2VnA1SdIBc0FVX3lxTE5CeWVKRGZOdlBXU0hQYjNnMWdsUTJ2V2dwR1hoLWNUcHdtZEl5TDlFMXlyQmdwMmpQdTZSN2pqcDRqRWZVajZDQXZPcGpOWjlzTUJFSVJ1SkZseVoyMnJvbC1SLVhSLWVGNVd0NU16aHVHdmM?oc=5",
-      "description": "'장보고 N 사업' 시동…한화오션, 원자력 함정 전담 조직 신설 뉴스웍스",
-      "published": "2026-10-12T01:53:29+00:00",
-      "source": "한화오션 (국내)",
-      "id": "d80483ff14f225c0",
       "relevance": 75,
       "companies": [
         "한화오션"
@@ -857,30 +857,6 @@
       ]
     },
     {
-      "title": "한화오션, 핵추진잠수함 핵심기술 경력 전문가 채용 - Korea IT Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzdzhUTVFYWkRpbTM0MWF5ZTdydHFyVnhyODJNUWJTQXlGZ3hrUjNXZWhGMzBGU1NIeHBpQ3pnaDlNaXBiLWdtZzhVVm1SM3Nkay1FdHdURFdlQm8wNk5TVWRxU21BOFZGYmQybWhXeWc?oc=5",
-      "description": "한화오션, 핵추진잠수함 핵심기술 경력 전문가 채용 Korea IT Times",
-      "published": "2026-10-12T01:36:17+00:00",
-      "source": "한화오션 (국내)",
-      "id": "171024db119aa8c4",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 10:36",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
       "title": "한화오션, '장보고N개발단' 신설…핵잠수함 사업 준비 - 지디넷코리아",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96TDZ4MklYdzV4TDVGM25lUm9TbkhfMlFHTkk4TVhkLU1DcmRIRF83cXBEY1h1VUw1VldmR2Ria2xGMU5hU0RTWjlJbnctVlNGYWVMcnZR?oc=5",
       "description": "한화오션, '장보고N개발단' 신설…핵잠수함 사업 준비 지디넷코리아",
@@ -896,54 +872,6 @@
       "program_stage": "관련 동향",
       "new_today": false,
       "published_ko": "2026-10-12 10:30",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "한화오션, 핵추진잠수함 인력 모집..'장보고N' 준비 속도 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0V0JwNF80U0tEQUI4X3I2em0td1M4VWlqN1pGU3N3Q1RsdkZTbzBPcUZFRGpFOVJwaVdOWWZYUFFGeEhJeE9FNTVuUldtLUh3XzNPa2tRYU82dw?oc=5",
-      "description": "한화오션, 핵추진잠수함 인력 모집..'장보고N' 준비 속도 파이낸셜뉴스",
-      "published": "2026-10-12T01:28:42+00:00",
-      "source": "한화오션 (국내)",
-      "id": "8fcadb9e15a7d83b",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 10:28",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "한화오션, 핵추진잠수함 개발체계 구축 시동…5개 분야 경력 채용 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBTjJhdnVBSVpPT3VnMXgzc2tHY01sYXRzMzVNd3V3TEx3eW9zY1dtWEZjYjkzZGdFWXptSVlGVjd2LXp3RkFrb1VNeW1LY19ENU51SDJueldZZUdocERWVtIBeEFVX3lxTE92aWJmQWhKTlVSeDFBa1RFejRoRS1jZTFCUW0zVWZpeF8xdlVIbnNaaDEyeWtMT1FkSmtQWC1ETm9tRHllY0pBQjJmQnVQcXJ2Qi14dmZFSzhIYTZST0l4azZ4N0FmZVphTmhfc1B4d3ItT0pHQ0x6eg?oc=5",
-      "description": "한화오션, 핵추진잠수함 개발체계 구축 시동…5개 분야 경력 채용 뉴시스",
-      "published": "2026-10-12T01:25:35+00:00",
-      "source": "한화오션 (국내)",
-      "id": "78a7cb0302ba70d6",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-10-12 10:25",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
