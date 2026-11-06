@@ -1,85 +1,1709 @@
 {
-  "updated_at": "2026-11-05T12:01:43.467198+09:00",
-  "updated_at_ko": "2026-11-05 12:01",
-  "today": "2026-11-05",
+  "updated_at": "2026-11-06T12:02:32.594298+09:00",
+  "updated_at_ko": "2026-11-06 12:02",
+  "today": "2026-11-06",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98+%EC%9E%A0%EC%88%98%ED%95%A8&hl=ko&gl=KR&ceid=KR:ko (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=HD%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85+%EC%9E%A0%EC%88%98%ED%95%A8+OR+%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85+%EC%9E%A0%EC%88%98%ED%95%A8&hl=ko&gl=KR&ceid=KR:ko (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%ED%95%9C%EA%B5%AD+%EC%9E%A0%EC%88%98%ED%95%A8+%EC%88%98%EC%B6%9C+OR+%EC%9E%A0%EC%88%98%ED%95%A8+%EC%88%98%EC%A3%BC+OR+%EC%9E%A0%EC%88%98%ED%95%A8+%EA%B3%84%EC%95%BD&hl=ko&gl=KR&ceid=KR:ko (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "연합뉴스",
       "query": "site:yna.co.kr 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Ayna.co.kr+%EC%9E%A0%EC%88%98%ED%95%A8+%28%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98+OR+HD%ED%98%84%EB%8C%80+OR+%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85%29&hl=ko&gl=KR&ceid=KR:ko (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Abiz.chosun.com+%EC%9E%A0%EC%88%98%ED%95%A8+%28%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98+OR+HD%ED%98%84%EB%8C%80+OR+%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85%29&hl=ko&gl=KR&ceid=KR:ko (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "Naval News",
       "query": "site:navalnews.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine export)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Anavalnews.com+%28Hanwha+Ocean+submarine+OR+HD+Hyundai+submarine+OR+South+Korea+submarine+export%29&hl=en-US&gl=US&ceid=US:en (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "Defense News",
       "query": "site:defensenews.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Adefensenews.com+%28Hanwha+Ocean+submarine+OR+HD+Hyundai+submarine+OR+South+Korea+submarine%29&hl=en-US&gl=US&ceid=US:en (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "Naval Technology",
       "query": "site:naval-technology.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Anaval-technology.com+%28Hanwha+Ocean+submarine+OR+HD+Hyundai+submarine+OR+South+Korea+submarine%29&hl=en-US&gl=US&ceid=US:en (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "Breaking Defense",
       "query": "site:breakingdefense.com (Hanwha Ocean submarine OR South Korea submarine)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Abreakingdefense.com+%28Hanwha+Ocean+submarine+OR+South+Korea+submarine%29&hl=en-US&gl=US&ceid=US:en (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "Janes",
       "query": "site:janes.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine)",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site%3Ajanes.com+%28Hanwha+Ocean+submarine+OR+HD+Hyundai+submarine+OR+South+Korea+submarine%29&hl=en-US&gl=US&ceid=US:en (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     },
     {
       "source": "Google News 종합(영문)",
       "query": "Hanwha Ocean submarine OR HD Hyundai Heavy Industries submarine OR South Korea submarine export",
       "found_today": false,
       "count_today": 0,
-      "error": "HTTP error (status=None): HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Hanwha+Ocean+submarine+OR+HD+Hyundai+Heavy+Industries+submarine+OR+South+Korea+submarine+export&hl=en-US&gl=US&ceid=US:en (Caused by ResponseError('too many 503 error responses')) | body: "
+      "error": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "한화오션·HD현대중공업, 필리핀 잠수함 수주전으로 격돌..2척 놓고 ‘또 집안싸움' - 한국정경신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93SjlPYXM2Y19fUnFwSXY2d05ydDVKS1BpeFJtMThDYUpfc3JmOGZLMkdIbnRNVTJRcjlWX1NkRVg3ZzBSX3NxTmdrODJScHIwM3c?oc=5",
+      "description": "한화오션·HD현대중공업, 필리핀 잠수함 수주전으로 격돌..2척 놓고 ‘또 집안싸움' 한국정경신문",
+      "published": "2026-11-03T05:26:32+00:00",
+      "source": "한화오션 (국내)",
+      "id": "df7cec839ac78ddf",
+      "relevance": 98,
+      "companies": [
+        "한화오션",
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [
+        "🇵🇭 필리핀"
+      ],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-11-03 14:26",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션, HD현대중공업",
+        "사업/수출",
+        "대상국: 🇵🇭 필리핀",
+        "계약/선정"
+      ]
+    },
+    {
+      "title": "한화오션, ‘서희함’ 진수로 차세대 핵잠수함 사업 급물살 타나 - 이코노미트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ra0NFamx5LXF3VWdmSmx1NVFCeEFxdk5WSkZaOFZPSm4tZXF1ckUxVXNzcm5pV3M3Y280Y3VxbzF2eXRiM2ZsZnFIcWlDRm1JVllpMkRwNGlydG5aQmoxdlQxZWh5UmtEMDJqbEtoNno1dWJTb3M0?oc=5",
+      "description": "한화오션, ‘서희함’ 진수로 차세대 핵잠수함 사업 급물살 타나 이코노미트리뷴",
+      "published": "2026-11-04T11:18:33+00:00",
+      "source": "한화오션 (국내)",
+      "id": "9b26f3e1f9ee4556",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-04 20:18",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "서희함 띄운 한화오션…잠수함 수출 영토 넓힌다 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V1lZZ3FxWkktYlJfSElNZUk2YkgxdXZQYUJvbEk0SS1ueENNQkFSLTVpNTZ2ODROeHpJNHNkVXZUTkRNd3pYSjh5SFc5TXNmSGhLNzlTdFh0QW82UUdUTw?oc=5",
+      "description": "서희함 띄운 한화오션…잠수함 수출 영토 넓힌다 뉴스토마토",
+      "published": "2026-11-04T05:47:26+00:00",
+      "source": "한화오션 (국내)",
+      "id": "747ed2c39bba6dfc",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-04 14:47",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션 잠수함 서희함 진수…국산 장비 70종 탑재 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pSTdUT18tSHBNczRVb0s1czQ2M2tiTDNwNnJCZ21lOUs4NDdndTZiaW5CS0oxTlpPOEZPTlhhLTBWQmFGV3pVRUs0dWxaWUtHZWpGczExaWRPdHg2OGIxZnpCMHBlVzQ?oc=5",
+      "description": "한화오션 잠수함 서희함 진수…국산 장비 70종 탑재 자본시장뉴스",
+      "published": "2026-11-04T00:30:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "740d13d5f1bf391f",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-04 09:30",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "한화오션, 3600t급 잠수함 '서희함' 진수…국산 장비 70종 탑재 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYklrRzV0czVwWDVkMU9kVjBXTzVPWlhleWhjeWZGNEZBT2ppRFZmeXppdElzUFBEbG9fNmN1OWVybVNkR3hteTNjN2ZUWjk3Ymk4ZW9YZS10SXF5LVhHZ1dKTmtHNzF0dUR0WFh1Q0h4TUxLVTdGSjZqLUs1Tzk0ZTRUSHdCQQ?oc=5",
+      "description": "한화오션, 3600t급 잠수함 '서희함' 진수…국산 장비 70종 탑재 글로벌이코노믹",
+      "published": "2026-11-03T09:10:46+00:00",
+      "source": "한화오션 (국내)",
+      "id": "c266cfb66d6effe1",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-03 18:10",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "한화오션, 3600톤급 잠수함 ‘서희함’ 진수…K잠수함 수출 기반 강화 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMdkQ3QjhUWnloQlNFakJWRF9pTVhqZ2FkYkR0V0hRTEtyQlhTdGZqZ0JPc0lDdmd3NlA5WXVKZ3pJYkRhRzJtdF95ZVB4VVlObk51UDFlSjdfN3ZmLTdDRGZzX0tOVm9QNlBVMUxR?oc=5",
+      "description": "한화오션, 3600톤급 잠수함 ‘서희함’ 진수…K잠수함 수출 기반 강화 이지경제",
+      "published": "2026-11-03T08:26:14+00:00",
+      "source": "한화오션 (국내)",
+      "id": "e9f791eb32588f10",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-03 17:26",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "한화오션, 3,600t급 최신예 잠수함 '서희함' 진수…2028년 해군 인도 - https://www.ppss.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuREVHT3l1anNXLWtGZHVkZ3BieVp1TFhJTzkzUEhyQjJ3LTl5ZG1uYWVVVzhVck5EU3ZzSG5wNFFxRkxhMmF0dDRvZjNfNEJDQmRRVXhubkRoZVF2VVlyd21nMUk?oc=5",
+      "description": "한화오션, 3,600t급 최신예 잠수함 '서희함' 진수…2028년 해군 인도 https://www.ppss.kr/",
+      "published": "2026-11-03T07:58:57+00:00",
+      "source": "한화오션 (국내)",
+      "id": "a2b1d01a9204427f",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-03 16:58",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "거제 바다 가른 3600톤 ‘괴물 잠수함’…한화오션 옥포조선소 ‘서희함’ 진수 - 거제신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JeVlhZUl5QWItRzBoWXV1NUZGUTZqNk5nV3hITHhSTGQ1dS1YLWZiUVhFb0Q1XzI1YzBSYXVHbzl0ejdfR1dWSlEzaFlQNFNld3F0bG5aQ3pyMTJtM0t5aUlOQ1RCVWtmbHRCSzh3?oc=5",
+      "description": "거제 바다 가른 3600톤 ‘괴물 잠수함’…한화오션 옥포조선소 ‘서희함’ 진수 거제신문",
+      "published": "2026-11-03T06:17:20+00:00",
+      "source": "한화오션 (국내)",
+      "id": "f0536c8f3aa8bfac",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-03 15:17",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "한화오션 3600t급 '서희함' 진수..K잠수함 수출 경쟁력 강화 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZzAzU2pleUlyek04NXU2N0xJazVKbWFTVDQ4azZsWXJ3WFNSNjBjcl85QnVIVC0tbFNicnZTR3c3bnR5eDlCb2JPTk5oYVM5QzRnZlV0MFpyZw?oc=5",
+      "description": "한화오션 3600t급 '서희함' 진수..K잠수함 수출 경쟁력 강화 파이낸셜뉴스",
+      "published": "2026-11-03T05:56:29+00:00",
+      "source": "한화오션 (국내)",
+      "id": "0c81f2992ca53734",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "건조/시험",
+      "new_today": false,
+      "published_ko": "2026-11-03 14:56",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "건조/시험"
+      ]
+    },
+    {
+      "title": "한화-한화오션, 미 해군 중형 상륙함 건조사업 수주...잠수함 핵심 장비 '수평발사장치' 국산화 성공 - 여성소비자신문",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iaHJjWE0yRm9EeHVvSnlDZV93T3V5UkFPbmpNalg0OUU5Z0N4d3lqbXFHS3EwTTFReTktdFRFb1VKNXNJQUtlWkg3R2hiVG5pSndUS2hBclNhTmJUQ0IyMGZHcTdEdw?oc=5",
+      "description": "한화-한화오션, 미 해군 중형 상륙함 건조사업 수주...잠수함 핵심 장비 '수평발사장치' 국산화 성공 여성소비자신문",
+      "published": "2026-11-01T23:25:15+00:00",
+      "source": "한화오션 (국내)",
+      "id": "4572dcdf88ad72bb",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "계약/선정",
+      "new_today": false,
+      "published_ko": "2026-11-02 08:25",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "계약/선정"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 수평발사장치 국산화… 수출 경쟁력 강화 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNzZFWnk1MjdYYzNhVFdLcnZjczlITERzYkpLUmNYMDcyVXcxU3AycmNrblBzYTYxZkF4dTFuRjFUeUlEYnFsWTlzQS01M3ZiTk5MMS1qMXc3UQ?oc=5",
+      "description": "한화오션, 잠수함 수평발사장치 국산화… 수출 경쟁력 강화 브릿지경제",
+      "published": "2026-11-01T01:48:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "873b9d220635b881",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 10:48",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비인 어뢰 발사장치 국산화 성공 - 국제신문",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUURubXVQMl9zVndaZnhCMVhocVM5akxvcXMycjJZY0FQbzBzMVFDS1VsdTNlcnpXY2VrVkd4dVlWVktkSUlramgwV0V2Rnp0cUtqaUdlX2FiZzZqYWZ6NG5OVWxHOGFPUGtrUjVKOXFOc201LWhwVF9lQ19XeGdWOHFNRURZSE94WjJmTHlR?oc=5",
+      "description": "한화오션, 잠수함 핵심장비인 어뢰 발사장치 국산화 성공 국제신문",
+      "published": "2026-11-02T03:20:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "20fd503163825d7c",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 12:20",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 어뢰 발사장치 국산화…핵심 무장체계 자립 기반 확보 - 이코노미트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ORmZsWGNtQy1UMVJCWllIQWFLYk11UDd3SHlTNl8yUG1MZUNrbjVnN1kxU2pvVmJ0V1J0bmh6YmJpNFJDZWpZTm5aZVk1ZGhweE1KN0doT0xiS0llOEhnMjd2eGJFcjczWkRmak50b21FalBtNEFF?oc=5",
+      "description": "한화오션, 잠수함 어뢰 발사장치 국산화…핵심 무장체계 자립 기반 확보 이코노미트리뷴",
+      "published": "2026-11-02T02:11:48+00:00",
+      "source": "한화오션 (국내)",
+      "id": "7e4af8e46cc04029",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 11:11",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 어뢰 발사 핵심장비 국산화… 10년 기술개발 결실 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mRDNqVkZYdUMweWZkT1Y4WThHME03bkdhQl9iQ2FFV2xJdjRwY1NnREJpZXlPXy1DRVNHdmZqcm5JSTBiOVNiQzd2ZlpnaTRyMTZ4T1VQLVp1WVFaeFloQmlqcVF5UzRJQUs1dnhn?oc=5",
+      "description": "한화오션, 잠수함 어뢰 발사 핵심장비 국산화… 10년 기술개발 결실 아시아투데이",
+      "published": "2026-11-01T23:59:40+00:00",
+      "source": "한화오션 (국내)",
+      "id": "f05f53e682c4f1b8",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 08:59",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 어뢰 발사장치 국산화 성공…10년 개발 결실 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BNjhaeU1VSjNjS3doVWpMU0NDbmJrSGN3RzJvSFhhekM4RFpraXNMVF9wNTlMMVdCVlY2OUJDV1p6eEEwVnFNQkNQd3N3TTI1TGR1UUxpU0lFNERI?oc=5",
+      "description": "한화오션, 잠수함 어뢰 발사장치 국산화 성공…10년 개발 결실 뉴스핌",
+      "published": "2026-11-01T23:51:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "491780820de756e2",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 08:51",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 어뢰 밀어내 쏘는 잠수함 ‘수평발사장치’ 국산화 성공 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRDNaeFN6TTBaUmx3dm4yMk9ueWdpT2FwM245a0VxNGFpdDNnaE9rVnJrNFBvTlVGRGZpMnhtcUJreXdwRllJOFRSVDQ4bTBtc195ZUJSWUtTSFBSVnN6Q2xWWXBqNjU1NnBLZlhCVXphb21DNFHSAWZBVV95cUxPaXlaUTVvT04teEZvaGtyYWNHWERVd3p4VU1yNVNaQlQ2MW9sVGQtZUpfV18zWFlUbmN1RDFvZDdlVzNQQ1RLTGtFaWhpUXVlYWdWOFp3RXA4ZnY2NGgwRkRUV3hQdVE?oc=5",
+      "description": "한화오션, 어뢰 밀어내 쏘는 잠수함 ‘수평발사장치’ 국산화 성공 동아일보",
+      "published": "2026-11-01T06:21:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "3feeda0a02a1baa0",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 15:21",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 어뢰 발사장치 국산화 성공 - https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwbk9maHJCdU1lSDRodGtYOWFwWXlvQ2xROEg5UkxTRlBKampFMW1US3lLdlpPR1kxT2JTa25DLTFfREtTTDZRVVBfV1doMnpZZm11V2ItR3VXbEowNGdCLXVpUVMwT0pz?oc=5",
+      "description": "한화오션, 잠수함 어뢰 발사장치 국산화 성공 https://www.2news.co.kr/",
+      "published": "2026-11-01T04:39:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "00262b3ec9915ff1",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:39",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "잠수함 어뢰 우리 기술로 쏜다… 한화오션, 10년 만에 국산화 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMU5YSDJYMjlvNDc5NGp4XzJ0RWItR041VUhkTFRCa0s3TlNaZ2xWMkJIOXFTSnEyclMzMzgzM21aRTRBazJGMDRBQnBFSGFCeEl2V2ZPeWlxelA1M0ZoNA?oc=5",
+      "description": "잠수함 어뢰 우리 기술로 쏜다… 한화오션, 10년 만에 국산화 아시아경제",
+      "published": "2026-11-01T02:37:57+00:00",
+      "source": "한화오션 (국내)",
+      "id": "f10c9f5d40b4cbfb",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 11:37",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 어뢰 발사 핵심 장비 '국산화 성공'… 10년 연구 결실 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11bVhWaFpGanhpT2RWQThNMk1LVmdZZzlPQUcwMzh2clBTakhBQnVENEJVdjY1X2hTVFkzVXR6QU4xVFJVNTVVdnEzLWNTOWVCT0NjR3JIV1hIZ21UNThCNi1pcEtFdV9fdm1jTXdDTGlYbmdE?oc=5",
+      "description": "한화오션, 잠수함 어뢰 발사 핵심 장비 '국산화 성공'… 10년 연구 결실 파이낸셜포스트",
+      "published": "2026-11-01T00:59:51+00:00",
+      "source": "한화오션 (국내)",
+      "id": "5d88239061c3f853",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 09:59",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 어뢰 발사장치 국산화…10년 개발 결실 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYW5kTDkwNWxCdnRtNlg2MzJBdmw1a3VCZUFDSjlsZmd1VzNGUDd5dl9vSFdMWDBkc1RlNmU0M1hkYmxmMXpsTmFlU2dBdm1UUmJ2c25SV0h4aGhlTHFQRHcwTGx3RHUwTmVZOEJ3REJQTlpsdG0tOXVEeHdrZW51cWtUUGk2cENLU290dzBmY2c2UU5Mc1VnQWpLYlVpZVlOSjJ6QVZCdFNyZ2JDcEYtVkJmcEpyWG1yQkxreF9KYU1DNEJlZ3ljdWxjNzZ2ZXRsNFNYR2N3Z2tCSkVlejlOT3dZRHdSODBTVHh0dWMzd2hrQjVqU0VLLU43M1lLV2hyZTZRN0h2YUFIRFQxeEVHRGNzWExQYjRLVVk1X3NHOUgyaEk?oc=5",
+      "description": "한화오션, 잠수함 어뢰 발사장치 국산화…10년 개발 결실 데일리안",
+      "published": "2026-11-01T00:57:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "2399a568da0d79f1",
+      "relevance": 81,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 09:57",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 '수평발사장치' 국산화 - 경남매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QY2Y1S2IzU2RZc0N3S3YxOUhISzFSc18xLVBWR0xSeDdsemRuU3lLVHRnUVFSbTdiVUh4S3dkaUNxUTJnM0Q4QWJma1VPS0ZCanc0UnhwWVJIbmxZWjZrUGk2cWZpcm0tSnc?oc=5",
+      "description": "한화오션, 잠수함 '수평발사장치' 국산화 경남매일",
+      "published": "2026-11-03T13:16:59+00:00",
+      "source": "한화오션 (국내)",
+      "id": "85aa405fae63ba4e",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-03 22:16",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "퇴역함 넘겨받던 마닐라의 변신…HD현대·한화오션, 잠수함 놓고 맞붙다 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0Y0ODZNd0tXSE12b0Z6OV8zNVczczRCX2t6TDdZX1pOSV9pZ2NMZmNDeHpUaXVKSkVNOVptU1dVc0VTZXQyWUxuam1sLWV4YnJxMERYNW41QnNWU205VERsc183Mm52U3kxYmk3ME5OeElXZHV3LVJfNmpYUTE2RDd5OEFNRzkx?oc=5",
+      "description": "퇴역함 넘겨받던 마닐라의 변신…HD현대·한화오션, 잠수함 놓고 맞붙다 글로벌이코노믹",
+      "published": "2026-11-03T01:36:36+00:00",
+      "source": "한화오션 (국내)",
+      "id": "27005e757ef41b7d",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-03 10:36",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[기업이슈] 한화오션 ‘불기둥’…잠수함 수평발사장치 국산화 성공 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kM0xaMFlHTUNiQkswbGd0RElta2ZQcXhGRUd6MWYxZGgyX3Y0bXpsOWZrMjF0Q3JCRm1LeE5HOG9Nclp5QkNYU25jck8yZVcyS0Fn0gFYQVVfeXFMTnhPYUpySjFpTlpGMjQ0YTZwajNRam04eHBnMkxWTkVlZTZ2ZzNHRS16a2h0eFhfRHM5b1l1QXFwSzZQTEtCZnA3dEFuWkNUWWFnQ1FiRmlNRA?oc=5",
+      "description": "[기업이슈] 한화오션 ‘불기둥’…잠수함 수평발사장치 국산화 성공 SBS Biz",
+      "published": "2026-11-02T22:57:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "df91a8b5b009beae",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-03 07:57",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션 잠수함 핵심장비 수평발사장치 국산화…10년 협력 결실 : 기업·산업 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhNTZqSWFoeTljNlZhN2w4RkxITWZVa045TzNROHZiQldscVZoUDJwSC1nUnM0Q0kwTm5IcnJDZktnV3h6SjV6NV8yRQ?oc=5",
+      "description": "한화오션 잠수함 핵심장비 수평발사장치 국산화…10년 협력 결실 : 기업·산업 재경일보",
+      "published": "2026-11-02T21:31:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "fc885c0880fc2fde",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-03 06:31",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션 ‘불기둥’...잠수함 수평발사장치 국산화 성공 [오늘, 이 종목] - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTkhDMUlwNWVnUG5nNUFEMXVRUEhpelpNRXF3VmUzVFVZb0U5LThoa3l6NTlOUUx3STh5bGdvSWZySHNmWE1FUGlYTXVDOE84alhVeGx3?oc=5",
+      "description": "한화오션 ‘불기둥’...잠수함 수평발사장치 국산화 성공 [오늘, 이 종목] 매일경제",
+      "published": "2026-11-02T08:02:58+00:00",
+      "source": "한화오션 (국내)",
+      "id": "cb73f94ded98f14e",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 17:02",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[특징주] 한화오션, 잠수함 수평발사장치 국산화 성공에 10%↑ - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUmREaWY3elB2QTB1TDYyZlh4SllzQ0ZXTW5KWS13NlE3M2F3SlhRLWxCYWZDZ3MtYUJLX3J0YjUxc0tYVFVEaGgzOEpYVGJ2MWVkODNzdmt2ZV9uWllzWUdLNFM3YVRSbmdRZmdjRdIBc0FVX3lxTE1wc1NOOWV2eHY2ZDZmbmdVMEV5bzFPcWFxUlFobjJQNk5Ld3g1bTJWM0JYNlZJck1qa1NEOE9FbTFIQUlzeHlIT0JCRWhLTE1JZ0tuY0NIRHAyRlhfQnB3MTZtdWtOVU9kNUJ5eHRYM1cwd2c?oc=5",
+      "description": "[특징주] 한화오션, 잠수함 수평발사장치 국산화 성공에 10%↑ 뉴스웍스",
+      "published": "2026-11-02T02:05:25+00:00",
+      "source": "한화오션 (국내)",
+      "id": "b0428903e126a83a",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 11:05",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 10% 급등…잠수함 수평발사장치 국산화 성공 - 이코노뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12N3BLZnBWWC0zcjF1eXdjcDJmOFEwMFFKRnNfOUEtbVBNQ2FCMW1vQnZiclRYS3lTTHFBdnB5c0g5WDdQa3diT3BSb1lfbDlrUFdjUFdfSVB2VFpqdVVjOE1OWUFLZ3Z1NF9KRUl2cw?oc=5",
+      "description": "한화오션, 10% 급등…잠수함 수평발사장치 국산화 성공 이코노뉴스",
+      "published": "2026-11-02T02:03:36+00:00",
+      "source": "한화오션 (국내)",
+      "id": "e1559791395cb304",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 11:03",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[특징주] 한화오션, 잠수함 '수평발사장치' 국산화에…주가 11%↑ - 뉴스드림",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzLWFxaHI4bUE1OGNzY29DVXNxQWlJVTNZU29sVk5lLWRPTHFyN1pHQjhmMGc0bVp6QUJBUFBqSjZiS1RFVG5RaThVZFQ0UDBfaVpoOHBGWDZyTHRNbU1nMTM5azdycUdKQ2dR0gFuQVVfeXFMUEJYR1ZPWTVNdy1lTVJHR3VYVWhIRXU3T3ZoZFJJaVZDTnJBRDdXbkZOM1UtZWZINjQzamZrR2puNVR5bmV1dGFsTDZLN21iUTk4eHM4VlQwdXdmMTh2N3RDYnpsWjZSMHN3dU84U2c?oc=5",
+      "description": "[특징주] 한화오션, 잠수함 '수평발사장치' 국산화에…주가 11%↑ 뉴스드림",
+      "published": "2026-11-02T01:35:04+00:00",
+      "source": "한화오션 (국내)",
+      "id": "54b3eb5def016685",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 10:35",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, `잠수함 수평발사장치` 국산화 소식에 10%대 급등 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBidmlLSXhTQV82ZjMzU0txMVVjVDE4MlB3REw0RjFVLXA5T181cHhGbmpHVW9LNklKRDZqMVRRMkJGdjJINTFENzlaZzZHUDBHbGxtVHJPZm5nck1LMGozTGZB?oc=5",
+      "description": "한화오션, `잠수함 수평발사장치` 국산화 소식에 10%대 급등 매일신문",
+      "published": "2026-11-02T01:34:52+00:00",
+      "source": "한화오션 (국내)",
+      "id": "5280c908f857c501",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 10:34",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비 국산화에 10% 급등 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XbmR1UTdTMVVpNXZWU3BhNTFvbVRMYVdObjd4ZEpWdGRBNXp4cFRPQmRHcVZLZG5FWklSWWFvWU1LNzdYOGF1cWFXbmJkTDN0QV9CdnYyQkJIQ0w3VkxQVw?oc=5",
+      "description": "한화오션, 잠수함 핵심장비 국산화에 10% 급등 뉴시스",
+      "published": "2026-11-02T01:20:35+00:00",
+      "source": "한화오션 (국내)",
+      "id": "4fa3f6dc355be865",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 10:20",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[특징주] 한화오션, 자체 기술로 잠수함 핵심 장비 국산화…강세 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRUWQ0Y3N6b0RGMGJCVnpsRGVnQk10d2JfaDZ3NDBjb2d1bjAwaXo5ZENZMmQtMU1YUUgtVXJMYjdBcWpHa3R6cUh4dnBMNjJsSmtQU2tGNVNrN00?oc=5",
+      "description": "[특징주] 한화오션, 자체 기술로 잠수함 핵심 장비 국산화…강세 에너지경제신문",
+      "published": "2026-11-02T01:05:30+00:00",
+      "source": "한화오션 (국내)",
+      "id": "68d1b03ea669b9d5",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 10:05",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공 - CNB뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDMjJEck1CUHEyUkw3SHBzTmxHSlFJUEpLa3U5SVZreF8xVFg0NTVQT2FPRWM5NmV2VlFIM2FyVnZjcXJlMFFfZGZjNndfRXp1c2FHVVNHNmVMRDdmT0l1aEJONk9rZUR4bGRv?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공 CNB뉴스",
+      "published": "2026-11-02T00:45:20+00:00",
+      "source": "한화오션 (국내)",
+      "id": "82516fccb26b124a",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 09:45",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[특징주] 한화오션, 잠수함 핵심장비 국산화 소식에 7%대 강세 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWRkYXdxU1JVUC14bGFwRkdONGR5Qm1xVkVycVpuREw2NFc4aDdZRzVQc1NZQmw3bXZlaWtUdGYyc1ZGOFVKMUtnQjA1MzdVblRKcDlYeGd1YmZXd08wMlFCMVVWY050Tm55UXJnY1gwdk9uS1Y5WHR1TG1mRjA5S0EtWENkM0J20gGcAUFVX3lxTFBqRWRKQW5Gdm9tWHRaN0JBTUdVeHZVa2x1cVNlanBWZHR5clNrN0tuRS1iNWdOZDViaHluM2k2Q04zUjk4VXViZThRWmJtM1lfLU80RnlrcUNHZ3BNU3RCb2puWk5BQmNaSVNiblV5TFk2Tjd4Z1dzTmZTbE0teUQ5Nm41RUJjZ2dQc1BLQUFWU1kydTc1a0xXQWMwSw?oc=5",
+      "description": "[특징주] 한화오션, 잠수함 핵심장비 국산화 소식에 7%대 강세 Chosunbiz",
+      "published": "2026-11-02T00:36:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "ed8c63b7bb1a5474",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 09:36",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 ‘수평발사장치’ 국산화 성공 - 경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nOTBhSktBYzB0MGY0TXJMdE8xbm00Rk9Za2pmYk1LSndkSndibTVvcEJQd1Y4NUFJek9TZmFJeWJwaXRqdkxoYnZwR20tcVpDYk43Nms5OWJxR2steHlaeGpSa3MzLVRUZWc?oc=5",
+      "description": "한화오션, 잠수함 ‘수평발사장치’ 국산화 성공 경남도민일보",
+      "published": "2026-11-02T00:25:20+00:00",
+      "source": "한화오션 (국내)",
+      "id": "a858d0b2c0362173",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 09:25",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비 국산화에 7%대 강세 - 뉴스웨이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SbFJOYXZ5MXNFbEVMM3EwQ0MyUnU5c2wxdGplTjZkVll3VHcwTE44blMyVHhWUGlJa2VyYnctOVVtWW1pbTBHZUc2MDBPRHlDSHpVZlZPR3ZhRlNCRVJuQVpPTzQxVnFROVE?oc=5",
+      "description": "한화오션, 잠수함 핵심장비 국산화에 7%대 강세 뉴스웨이",
+      "published": "2026-11-02T00:23:09+00:00",
+      "source": "한화오션 (국내)",
+      "id": "13f54a58e843d743",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 09:23",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[특징주] 한화오션, 잠수함 핵심장비 국산화 성공에 장 초반 7%대 급등 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBQ3MxaW04WS1uMmhwSUdPUDdnU3p6ZXJ1Z3FURE1pSWhHMmVlOV95QjlycU9COHROWEJpNFQzNGg5UGFUcEZNQWVSSGJjNWo3WjFjb3NnLVZxNUdKUWZ6RlZROE4wdWZSNGgycw?oc=5",
+      "description": "[특징주] 한화오션, 잠수함 핵심장비 국산화 성공에 장 초반 7%대 급등 이투데이",
+      "published": "2026-11-02T00:19:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "cf80013b18e8e5e6",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 09:19",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비 '수평발사장치' 독자 국산화 - 페로타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sMHJkYkdSdmFRcnFVYmNKRVBnWkRuMWk3Rm83dVVVbTNmdm9WR3BIRFpOY2RXWGJIUlZDYW9jQVp4NXVXamFZZXFzRk5GWG1wQWJmNGpmNEZmNVVwZU1JZ2hmci1ZRFVEZ21JaA?oc=5",
+      "description": "한화오션, 잠수함 핵심장비 '수평발사장치' 독자 국산화 페로타임즈",
+      "published": "2026-11-02T00:15:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "ad3314ae21291405",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 09:15",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비 '수평발사장치' 국산화 성공 - 해사신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zMU5DaW5rSjA0eERRNHg3UE15dEdjVUlLNW5PUDdJay1kR2t4UTZ5bFNfMjNaOWVFNGdNZmhyM0lnT2hQdWkxZ0JBdC1RSW10YUxzSmVFeUR0NTFjb1U4N1g4NVJZcDJIN3NB?oc=5",
+      "description": "한화오션, 잠수함 핵심장비 '수평발사장치' 국산화 성공 해사신문",
+      "published": "2026-11-01T22:59:06+00:00",
+      "source": "한화오션 (국내)",
+      "id": "3bedcd2a6c526557",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 07:59",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 수평발사장치 국산화 성공 - 부산경남대표방송 KNN 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3MzZLVlhWVExXM0hPYmh5Ym5Na1JZX0dsdHh2TDlBa0ZtQVdvYTNYY3NsZmpnZUd5TUFFNXRmQmd0SXNiZTlVb24ybmhEWkVYMmVyaw?oc=5",
+      "description": "한화오션, 잠수함 수평발사장치 국산화 성공 부산경남대표방송 KNN 뉴스",
+      "published": "2026-11-01T22:48:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "096396e2c8f18528",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 07:48",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 '워터램 수평발사장치' 독자 국산화… 전량 수입 대체 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZzlzTlRVSmZTLWgzaWxYb1pfZzNvUWRGSThKVDlVWEV3N0hGZ21ndVdOZGxCb2pFZkZtUWpHTUNrRGxEekZPZ1AxdEFmcU52VU5VRVExZVFmLWdTNkRtRHdRMWRVWjhrNjBBUjAzakV4UQ?oc=5",
+      "description": "한화오션, 잠수함 핵심 '워터램 수평발사장치' 독자 국산화… 전량 수입 대체 인더스트리뉴스",
+      "published": "2026-11-01T22:22:55+00:00",
+      "source": "한화오션 (국내)",
+      "id": "9fd00d05ff662e39",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 07:22",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0wxNWRITXd6UkZuU09WMVNqLTVlZEx0anY2d25yMVY5SUhvX0x2S1RQczZKVUNRcThza05aWl94UGlxVTJwLWtEUWg4WW1oejVMU3dMc0RoRkZRQ0Eyak1Nc1NrVTNyUkFiTWVmYVZheG01TFBiM2FFRXdmellfNTVhZk1TQQ?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 글로벌이코노믹",
+      "published": "2026-11-01T18:07:51+00:00",
+      "source": "한화오션 (국내)",
+      "id": "2d1134db1cc6a716",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-02 03:07",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 발사장치 국산화 성공…10년 기술개발 결실 - https://www.ppss.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tMGh6RUJudFcyaUtOVXRvV3hodHduZTNDcnBPZlpPbElGbkxHYm5kclNvZTdTUVZaMDZBbTZUcG9ERjRFLWt0NEU0SDRrSDJIMFFJbUZIb1BsMjJLUVlMYnRpbjU?oc=5",
+      "description": "한화오션, 잠수함 핵심 발사장치 국산화 성공…10년 기술개발 결실 https://www.ppss.kr/",
+      "published": "2026-11-01T10:18:15+00:00",
+      "source": "한화오션 (국내)",
+      "id": "411977e55982e79d",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 19:18",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비 국산화 성공…방산 기술자립 새 이정표 - 재외동포신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHS015aDVZV3VQdXVhbkFRVXZwNmQ2TE5PdmUwdlZHY1NBZ0I3cG90ZmRsZl9zeGxkVzU4Y002cjFDcVJsaWZJNnJrVEhCYTR1OXAzeU9iV3ZfSFkzZW5xZ3o1TlFaM192SHFReQ?oc=5",
+      "description": "한화오션, 잠수함 핵심장비 국산화 성공…방산 기술자립 새 이정표 재외동포신문",
+      "published": "2026-11-01T06:44:43+00:00",
+      "source": "한화오션 (국내)",
+      "id": "ca8cb5004afd65a6",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 15:44",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 ‘수평발사장치’ 국산화 성공 - 로이슈",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yaEVVZ2djYWJGTE5nVjV0RnFnVEl0Z0pBUm9zVzREcDludGZQWTdoSGJmRlpFdGRqdXBXbXdFZjF1UVI0RV9JcVpldUxqYm1lQkxGdXBxRXZ6bjNnMHJ3cERuZC1iQmdFalQ0YURXaV9hbVh3ZEllVE1n?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 ‘수평발사장치’ 국산화 성공 로이슈",
+      "published": "2026-11-01T06:35:30+00:00",
+      "source": "한화오션 (국내)",
+      "id": "33d9c687438e1ea8",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 15:35",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 전성기 여나..수평발사장치 국산화 성공 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUGc1SmQ0eW9MNUwxekpuSGd2elBrU3psYXZwVGpEWWVENVU5eW1PNzNNcmI5a3NpWE1TR1pnVnpwcHJwWkk2QnhNSTg0cDZRU1JXLWFaemUzZw?oc=5",
+      "description": "한화오션, 잠수함 전성기 여나..수평발사장치 국산화 성공 파이낸셜뉴스",
+      "published": "2026-11-01T06:28:28+00:00",
+      "source": "한화오션 (국내)",
+      "id": "37b42e2b291e2b93",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 15:28",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 수평발사장치 국산화…10년 개발 결실 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ZE8xd3o3MmVRQ1hIbWFjc0xuYzFGcFNVUkJZNTZraGhJei1zMjVETmN4WE54VkxWLW1ibXdqYjNpT1o2XzFvVUs0eUhOdDMxbHdxdWlKS1pORklyX005a1ZGR0QwRlpWNTJPd9IBb0FVX3lxTE9pcVRncmdJelRDSXF1VzFkV1dNM2hQQVhKeEhNbmVoYkNoRVlUa0pfQUxUX1Y1ZEpkVlBDYzgwR0JaVDI4aXZOb203eDZaNG1YUE4tZExUUXpPZFRDaGx0ckNnS1N1Ti1iVG5FOXNIZw?oc=5",
+      "description": "한화오션, 잠수함 수평발사장치 국산화…10년 개발 결실 한스경제",
+      "published": "2026-11-01T06:24:50+00:00",
+      "source": "한화오션 (국내)",
+      "id": "06cbb65eb8ebfb1c",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 15:24",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 - 거제저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04M2tLLTRlbkc3cTNQTkNQQng5U2JUZWFFM2V5c2sxenk1WTJLd2Y0alhWbzFGQ1llSTJMWGJIVkdLbF9abzlseVNqN0xLQVYxQnpUMEJZY0hVN09XdUdvMGpIal9QdExqQnJmeHVfTGFSNjA?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 거제저널",
+      "published": "2026-11-01T05:14:04+00:00",
+      "source": "한화오션 (국내)",
+      "id": "df48a006507c88c8",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 14:14",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심장비 수평발사장치 국산화…'비용 절감·납기 단축' 기대 - 스포탈코리아",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkdtM3Q1X3J1aUVrRnhtcVFwV0ZKdXMwUWQ1RWwwNk9zdEU4b1MwbmFnbzhsaXpQM055bnprVzdPb2Mycl9vYTJyTG91VXVxRXlrYmU2Qzd3V1U4alREZjVCVDFrVXNVeE9kbVJRcVE2RWViS29vQ1p5S0l0TTRPblVB?oc=5",
+      "description": "한화오션, 잠수함 핵심장비 수평발사장치 국산화…'비용 절감·납기 단축' 기대 스포탈코리아",
+      "published": "2026-11-01T04:59:41+00:00",
+      "source": "한화오션 (국내)",
+      "id": "6090664bc4a75ea9",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:59",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 발사장치 국산화 성공…10년 개발 결실 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZS2V5UHZCaC00ZGVXa05XUDhvTzhOZ3h2MmN1bUtWZjFMRHF6OFlGWHVac3F3TF81UUlfVno1QVM4cHZkUzRaUEo2WkRiWUpMNC1RaWtYNGpNeG8xckNuUkU2ZkcyXzlMZi1rc1g3NWhqVVnSAXdBVV95cUxQOXpTNmZPRk54SEhjNUg3aXZtT2U3c3JOZVkzUjhvWWFRN3FmLUo1bkhXeXhCZmg1cjJsYnlXbWFkdUlRcno2b3ZfeGlyUzIwVEF2UWpuazBtQW1TS1hXYjFDckhnNkUwb1c0ZEpmeDdmMFYyaXd4bw?oc=5",
+      "description": "한화오션, 잠수함 핵심 발사장치 국산화 성공…10년 개발 결실 핀포인트뉴스",
+      "published": "2026-11-01T04:44:26+00:00",
+      "source": "한화오션 (국내)",
+      "id": "acb50b9fd21c823b",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:44",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 ‘수평발사장치’ 국산화 성공 - www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6LVVRYVhhcGZNTjAwUUxoYkFPZTExc3E4UzhTcmZTQ3duMUJIZm1xSjJLX0Vvd0JOaWlnUWlkekZtaFU2bW11SUY5dnY3dw?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 ‘수평발사장치’ 국산화 성공 www.dt.co.kr",
+      "published": "2026-11-01T04:35:08+00:00",
+      "source": "한화오션 (국내)",
+      "id": "da3fba8f5cac356d",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:35",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 - 스포탈코리아",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmthTVlnekRUWGJreDBwNGhEMDJYeGpfVFlSMGwwRWUxem84bkRvbGhXUkFzT3M5SjVrZklMYjluNXlQRVphcXIybThicmE4eG0zbHptcW5lS2J3WElkdG1YSXFGcEI1bEtPVndSN2pvenhQclA1d182SW0zUHl6eElB?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 스포탈코리아",
+      "published": "2026-11-01T04:32:48+00:00",
+      "source": "한화오션 (국내)",
+      "id": "1f319b68fcfd60e8",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:32",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 수입 의존 잠수함 ‘수평 발사 장치’ 국산화…ADD와 10년 협력 결실 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYd2tfdFFwNkVuSk02dUFjdUN2ZmJVV2ZGMmswVVBPUGV0Uy1rWjUwSmdycTE5X1BjZHdvQTdyWE1DUHRFTC1pZEVsLUowMHJqbFVncktnV1g5NFE?oc=5",
+      "description": "한화오션, 수입 의존 잠수함 ‘수평 발사 장치’ 국산화…ADD와 10년 협력 결실 에너지경제신문",
+      "published": "2026-11-01T04:27:59+00:00",
+      "source": "한화오션 (국내)",
+      "id": "b4f42131858675bb",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:27",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[카드] '잠수함 핵심장비 국산화' 한화오션, '수평발사장치' 독자 개발 - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42cV92QkV1bF9ZRkpGbTNXNUI5YndTaVYtc2tHaDBlQUZ6WFQySC1Fb0tVdzhpRE8ycmtIUVlWbkV6S0ZnVVM3MnExeWxLb1Ixay1IeGVFMms4OGZ5S0tDV3NfclU0c2FkTVZEQQ?oc=5",
+      "description": "[카드] '잠수함 핵심장비 국산화' 한화오션, '수평발사장치' 독자 개발 프라임경제",
+      "published": "2026-11-01T04:07:03+00:00",
+      "source": "한화오션 (국내)",
+      "id": "ca7101ed650b861a",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 13:07",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "‘잠수함 수평발사장치’ 뭐길래?… 한화오션, 10년 걸려 국산화했다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNkNIajBuRGFYSk5seHdhN0NyWW9mbGF2Um4xM2FNQVVTSk52V1A5SEZJdENZMnZweWJWRnlYMC0wLTJyMWJ0TnZjejhQOVU2MmVBTFYyXzRMdGRDVXBGUXk4UkpzU1otYU1ZalFUamhaTE13cDRWY0kzUXRuVVh4MkgxS0VjU2REcGVXZDJfRQ?oc=5",
+      "description": "‘잠수함 수평발사장치’ 뭐길래?… 한화오션, 10년 걸려 국산화했다 조선일보",
+      "published": "2026-11-01T03:54:18+00:00",
+      "source": "한화오션 (국내)",
+      "id": "d08238442327d7ce",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 12:54",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NZ3AxYWx0TzlLZ1JDRklObWJ2UjdGcTlCVU42cnJrR0VYRXJucTZlblNySjhpTUZWamFFZmx1bnlGY0JSS1pMUHRQSldZRGRPSmpkZHNOUDM4U01ZOGR6btIBeEFVX3lxTFBfSkhPdzZEZnZfZHpzLXJiZ0FERElxWWl3aWNJRWEyV1owZnJVZEpPa0RZYXF6RXZldUIzRDRITnFTOVZidlIyMFFuRkw1azdYeTBVYlEzZThYd19iQXB3clEyaFFqeHpnLW1jZjJYaDVRblkxUThONA?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 뉴시스",
+      "published": "2026-11-01T03:53:52+00:00",
+      "source": "한화오션 (국내)",
+      "id": "cdb00d659538c5fa",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 12:53",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 '수평발사장치' 국산화…10년 연구 끝 결실 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4aURwTmx6NGtSZUM1TUFXMFYzLUkwMFFRQ1FyYnFHTmpTNVZ3emdxd1liUlBMZE9PS1MtRUptMUg3ejlHSWtIbGZqNFhPM1JMM09YN0RyWVRrN0c3bXhHa3ZCNDdabzRQU1RUUDN5UdIBc0FVX3lxTFBWUXpjazdKMHlyU1NGLXlXQXE1eVYxaXVkcnBZYnYwQmd0NEFQdnZTSkZMVlliR1FqaWRpTlVSSl9HYnN0R0tDQ1VCS045V1RMMWlNa1g1TlhUenI4Zi1SSDEwb1pneVM4LUpVZnRWVG5kT0k?oc=5",
+      "description": "한화오션, 잠수함 '수평발사장치' 국산화…10년 연구 끝 결실 뉴스웍스",
+      "published": "2026-11-01T03:14:39+00:00",
+      "source": "한화오션 (국내)",
+      "id": "ecd55065507c696f",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 12:14",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 수평발사장치 국산화 성공 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMHRsTXl4T0l5NlltQ0FlMXpiV0RHZWQtWGRpa1NVRGZXOU9iRk42dVJfQ2I2UzRIZkZKLW03ZFd1M0xlNHFabHZ3YlFGT1lOR1FxTzBfS1ljZ9IBVEFVX3lxTE16VnpoQmtVTTNSUWNZX2dkWE9FZDM2a18xMWlKQ3hSVVBxWE5CQzNXY0kxVmp3bGYtaVhMSHQzOVZiNV8zQXkwVmlYRzZVWE56TnFweA?oc=5",
+      "description": "한화오션, 잠수함 수평발사장치 국산화 성공 더팩트",
+      "published": "2026-11-01T02:28:24+00:00",
+      "source": "한화오션 (국내)",
+      "id": "714b1f2f952b7969",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 11:28",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화…10년 개발 결실 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3V0NUY0NvY01HUTJrbzFYNF9NM3I1TGhQQWN0d3VIMDNyMEJxSVZidFdOdG9QX2ltSVpMNVVhZC0yYmNRNktRTWExUHotVjRNNmV1VUwwSUwtbHg0S0VXbw?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화…10년 개발 결실 아시아경제",
+      "published": "2026-11-01T02:26:58+00:00",
+      "source": "한화오션 (국내)",
+      "id": "d310b0b83366e43a",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 11:26",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QzYwcWhqUlBzWjNySTNPNkZTOGw4c3VmUjlBcGY1XzNPNU45N3dOZThUWnk4T0trWWM4R2hWcm5uSHhORWFkN2NlT1NwQ1pRN09ITVA5Zm1jcldtaFhIX3ZIRzJJOG8?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공 연합뉴스TV",
+      "published": "2026-11-01T02:13:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "b28febc6fc83d53d",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 11:13",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 '수평발사장치' 국산화 성공…10년 개발 결실 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVVVZbXhBOEF4QmJ0WTNmTGhfazlzQjdhdGNSS2praU9yc3o4SEcxT24tYk9yYllzbkNRc290UHRwWHpkTV9sczY2NGRoaEVRV0JMYmtIczc2bjBFSFJIYkVpQmZkSFA4aEk0b20yQTAyemlJdHVCYWtn0gF_QVVfeXFMTmxCUjB0Rk1hcU5ZV1o4TDkyM0I0Ty1ZZ0E1VUVrV1ctVEVGeVRuR2p1OVZUQ2hGZXZsdzVLQTVVRlNJTmY5RnRiT19WMjhkS0V4anNSRG1mZkZDRlRLN2QzUU56dWxNY3Z0V3lKRXZPVkRVNmJyQ2xWOFQwTnhHbw?oc=5",
+      "description": "한화오션, 잠수함 '수평발사장치' 국산화 성공…10년 개발 결실 - 머니투데이 머니투데이",
+      "published": "2026-11-01T01:54:40+00:00",
+      "source": "한화오션 (국내)",
+      "id": "962919d73e220aa1",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 10:54",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "[지식재산이야기-348] 한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 - 파이낸셜신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMaU5LZjNoZEZ2U0tNY2l1cnU2UUpJRmZXWkFjRl9qX29LVFNFdm9lcExvQ1d5dWVSb3JYejZXRTdXbDR5S3V4dVhHdGtBNHFyUm5kUHFVU3pLZ1FrVWhuVVZVV1BhNWI3YVZz?oc=5",
+      "description": "[지식재산이야기-348] 한화오션, 잠수함 핵심 장비 '수평발사장치' 국산화 성공 파이낸셜신문",
+      "published": "2026-11-01T01:45:02+00:00",
+      "source": "한화오션 (국내)",
+      "id": "bfd235c2fa1c04d7",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 10:45",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 수평발사장치 국산화…ADD와 10년 협력 결실 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xVW5yX3pmVTVhMnhrYll3aWhibDdieFEzU1ZpNXZaM0NPdXR4cTB5bTZMWXNiYm9OMDhQV0FydFJKRFdsdUdNN09BVnJOT0szZy16eXMzQjJxZmRsRGhIQlRQRFg?oc=5",
+      "description": "한화오션, 잠수함 수평발사장치 국산화…ADD와 10년 협력 결실 매일일보",
+      "published": "2026-11-01T01:23:54+00:00",
+      "source": "한화오션 (국내)",
+      "id": "18f972924b463992",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 10:23",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "10년 연구 끝 결실… 한화오션, 잠수함 워터램 수평발사장치 국산화 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXFMZjM5Q2U2RGlRdlNscHBuZ3VrbE5vVmo0dkxmN2lrNldPdVRmV2NjRVdXRHdOZ0VReVZ2TzF6UWlZUVRjQURHblVRS3JBUEh1Q2pMbnhKR01qTUFXdjZSSDB6ZzlwWDRoSzZCMEZHQWRzb0JSM1RueVkzVFhrZm52cFjSAZgBQVVfeXFMTWdTd1R6UmNnMDdUR0Ewd2NsMVZoNDRISTFBZ1VwZlNIM1FoYVdLczZuX0ppSDJJamZJR3Z6NExlRjBmOUFYREh4MVNlV3I2ekVGMjB0QVFRWkF1Vy0xdC13ZUNXaDV4VDBHc0NCZnJyTjRoUTVIb3R0ckVMbFdhUHVnNm95MWpTckhMd3FiZ0JRbXpjbkJENzM?oc=5",
+      "description": "10년 연구 끝 결실… 한화오션, 잠수함 워터램 수평발사장치 국산화 Chosunbiz",
+      "published": "2026-11-01T01:08:00+00:00",
+      "source": "조선비즈",
+      "id": "69bb95c4adbebf74",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 10:08",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "“잠수함 발사장치도 우리 기술로”…한화오션, 국산화 성공 - 키즈맘",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53WmYyZGY2d19YYlBiQTB4eWk0SDcwZ2hPS0Z2UFNOeXpVeXg5WDl0MEhrak5lMFd0ejg5SXhaaHBLZ05TTUhhMVB0WmgxaC0tajliQ2RzUlpqWXN1UEcweDVXR3ZLSlVP?oc=5",
+      "description": "“잠수함 발사장치도 우리 기술로”…한화오션, 국산화 성공 키즈맘",
+      "published": "2026-11-01T01:02:05+00:00",
+      "source": "한화오션 (국내)",
+      "id": "2bd802dd52aff3bd",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 10:02",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 '수평발사장치' 국산화…10년 만에 독자 개발 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2hpVkx4NVptbjZKX0pXcmNMOUxET1pVMnJuc0g3cWc1MDI3eDExTnRPT2tiak1CZFl0ZTBuUkd1aG9RVlhPbzlTcTExQ0U0VExIcjJOcXJPRG9FMV9zdUdwTUpyQUswTGkyQ2NQRmc2MmRWd2t5c3dIV29SRnMwYQ?oc=5",
+      "description": "한화오션, 잠수함 '수평발사장치' 국산화…10년 만에 독자 개발 이데일리",
+      "published": "2026-11-01T00:56:28+00:00",
+      "source": "한화오션 (국내)",
+      "id": "0aee4059c52506e2",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 09:56",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RZXFlbFRvZUJJLWdkMUF2VE01RlJaelg3b2pVdlVnLWlCQ05jM1lOTUhFTGtDNV9sRjBtc1RSR01MbzBjRk50bXBVeTNnb3kzRWRrdnZCUXhUdkXSAWBBVV95cUxNbkN6NWpWd0JyaUhIY1JfaFVBN3ViS1BncnBsRVpZakxnakdaZHFjMVlhUlZVaWVxdmx0OURRb2RqaDJhc0lzVGI1WDU3MjZ2SkdBZ2N4RUR5UXpSWWpmZU4?oc=5",
+      "description": "한화오션, 잠수함 핵심 장비 수평발사장치 국산화 성공 연합뉴스",
+      "published": "2026-11-01T00:47:06+00:00",
+      "source": "연합뉴스",
+      "id": "a6a06f2ece50e713",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 09:47",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "한화오션, 워터램 방식 잠수함 수평발사장치 개발…“수입 장비 대체” - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kOWtUT04xNlVmbHJUaXNmaDRoSzFaemd3OV9Cd3V6RWk3b01tRkpCSVJEV2dLdjlEc1V6SG9EeUhfOE91dWpKNlV3aGNiOHo4NjN6dGFwUTMtc0F3c29iTGd0OW54WWd1?oc=5",
+      "description": "한화오션, 워터램 방식 잠수함 수평발사장치 개발…“수입 장비 대체” 녹색경제신문",
+      "published": "2026-11-01T00:37:12+00:00",
+      "source": "한화오션 (국내)",
+      "id": "c444627907fea16b",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-01 09:37",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
+      ]
+    }
+  ]
 }
