@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T13:27:25.937788+09:00",
-  "updated_at_ko": "2026-11-10 13:27",
-  "today": "2026-11-10",
+  "updated_at": "2026-11-11T11:28:36.787689+09:00",
+  "updated_at_ko": "2026-11-11 11:28",
+  "today": "2026-11-11",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -184,131 +184,6 @@
       ]
     },
     {
-      "title": "한화오션, 3600t급 잠수함 '서희함' 진수…국산 장비 70종 탑재 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYklrRzV0czVwWDVkMU9kVjBXTzVPWlhleWhjeWZGNEZBT2ppRFZmeXppdElzUFBEbG9fNmN1OWVybVNkR3hteTNjN2ZUWjk3Ymk4ZW9YZS10SXF5LVhHZ1dKTmtHNzF0dUR0WFh1Q0h4TUxLVTdGSjZqLUs1Tzk0ZTRUSHdCQQ?oc=5",
-      "description": "한화오션, 3600t급 잠수함 '서희함' 진수…국산 장비 70종 탑재 글로벌이코노믹",
-      "published": "2026-11-03T09:10:46+00:00",
-      "source": "한화오션 (국내)",
-      "id": "c266cfb66d6effe1",
-      "relevance": 90,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-11-03 18:10",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "사업/수출",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "한화오션, 3600톤급 잠수함 ‘서희함’ 진수…K잠수함 수출 기반 강화 - 이지경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMdkQ3QjhUWnloQlNFakJWRF9pTVhqZ2FkYkR0V0hRTEtyQlhTdGZqZ0JPc0lDdmd3NlA5WXVKZ3pJYkRhRzJtdF95ZVB4VVlObk51UDFlSjdfN3ZmLTdDRGZzX0tOVm9QNlBVMUxR?oc=5",
-      "description": "한화오션, 3600톤급 잠수함 ‘서희함’ 진수…K잠수함 수출 기반 강화 이지경제",
-      "published": "2026-11-03T08:26:14+00:00",
-      "source": "한화오션 (국내)",
-      "id": "e9f791eb32588f10",
-      "relevance": 90,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-11-03 17:26",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "사업/수출",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "한화오션, 3,600t급 최신예 잠수함 '서희함' 진수…2028년 해군 인도 - https://www.ppss.kr/",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuREVHT3l1anNXLWtGZHVkZ3BieVp1TFhJTzkzUEhyQjJ3LTl5ZG1uYWVVVzhVck5EU3ZzSG5wNFFxRkxhMmF0dDRvZjNfNEJDQmRRVXhubkRoZVF2VVlyd21nMUk?oc=5",
-      "description": "한화오션, 3,600t급 최신예 잠수함 '서희함' 진수…2028년 해군 인도 https://www.ppss.kr/",
-      "published": "2026-11-03T07:58:57+00:00",
-      "source": "한화오션 (국내)",
-      "id": "a2b1d01a9204427f",
-      "relevance": 90,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-11-03 16:58",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "사업/수출",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "거제 바다 가른 3600톤 ‘괴물 잠수함’…한화오션 옥포조선소 ‘서희함’ 진수 - 거제신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JeVlhZUl5QWItRzBoWXV1NUZGUTZqNk5nV3hITHhSTGQ1dS1YLWZiUVhFb0Q1XzI1YzBSYXVHbzl0ejdfR1dWSlEzaFlQNFNld3F0bG5aQ3pyMTJtM0t5aUlOQ1RCVWtmbHRCSzh3?oc=5",
-      "description": "거제 바다 가른 3600톤 ‘괴물 잠수함’…한화오션 옥포조선소 ‘서희함’ 진수 거제신문",
-      "published": "2026-11-03T06:17:20+00:00",
-      "source": "한화오션 (국내)",
-      "id": "f0536c8f3aa8bfac",
-      "relevance": 90,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-11-03 15:17",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "사업/수출",
-        "건조/시험"
-      ]
-    },
-    {
-      "title": "한화오션 3600t급 '서희함' 진수..K잠수함 수출 경쟁력 강화 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZzAzU2pleUlyek04NXU2N0xJazVKbWFTVDQ4azZsWXJ3WFNSNjBjcl85QnVIVC0tbFNicnZTR3c3bnR5eDlCb2JPTk5oYVM5QzRnZlV0MFpyZw?oc=5",
-      "description": "한화오션 3600t급 '서희함' 진수..K잠수함 수출 경쟁력 강화 파이낸셜뉴스",
-      "published": "2026-11-03T05:56:29+00:00",
-      "source": "한화오션 (국내)",
-      "id": "0c81f2992ca53734",
-      "relevance": 90,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "건조/시험",
-      "new_today": false,
-      "published_ko": "2026-11-03 14:56",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "사업/수출",
-        "건조/시험"
-      ]
-    },
-    {
       "title": "한화오션, ABB와 부유식 데이터센터 전력·제어 시스템 기술협력 업무협약 체결...잠수함 워터램 방식 수평발사장치 국산화 - 여성소비자신문",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZW9aU1hOclJYWkNJR3FQZlJybXBTOXM5V3pHSW14dThWMkpYVFhGdFFRUENoVS1VVEJ1dXhQTHktY0NuOFM3Z3lUVV92U2ZvMGpvdnlZenROY0tlVmpJN0w3Sl9EZw?oc=5",
       "description": "한화오션, ABB와 부유식 데이터센터 전력·제어 시스템 기술협력 업무협약 체결...잠수함 워터램 방식 수평발사장치 국산화 여성소비자신문",
@@ -360,7 +235,7 @@
       "title": "[특징주] 한화오션, 잠수함 핵심장비 국산화 소식에 7%대 강세 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWRkYXdxU1JVUC14bGFwRkdONGR5Qm1xVkVycVpuREw2NFc4aDdZRzVQc1NZQmw3bXZlaWtUdGYyc1ZGOFVKMUtnQjA1MzdVblRKcDlYeGd1YmZXd08wMlFCMVVWY050Tm55UXJnY1gwdk9uS1Y5WHR1TG1mRjA5S0EtWENkM0J20gGcAUFVX3lxTFBqRWRKQW5Gdm9tWHRaN0JBTUdVeHZVa2x1cVNlanBWZHR5clNrN0tuRS1iNWdOZDViaHluM2k2Q04zUjk4VXViZThRWmJtM1lfLU80RnlrcUNHZ3BNU3RCb2puWk5BQmNaSVNiblV5TFk2Tjd4Z1dzTmZTbE0teUQ5Nm41RUJjZ2dQc1BLQUFWU1kydTc1a0xXQWMwSw?oc=5",
       "description": "[특징주] 한화오션, 잠수함 핵심장비 국산화 소식에 7%대 강세 Chosunbiz",
-      "published": "2026-11-02T00:36:00+00:00",
+      "published": "2026-11-02T08:00:00+00:00",
       "source": "조선비즈",
       "id": "ed8c63b7bb1a5474",
       "relevance": 75,
@@ -371,31 +246,7 @@
       "countries": [],
       "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-11-02 09:36",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "‘잠수함 수평발사장치’ 뭐길래?… 한화오션, 10년 걸려 국산화했다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNkNIajBuRGFYSk5seHdhN0NyWW9mbGF2Um4xM2FNQVVTSk52V1A5SEZJdENZMnZweWJWRnlYMC0wLTJyMWJ0TnZjejhQOVU2MmVBTFYyXzRMdGRDVXBGUXk4UkpzU1otYU1ZalFUamhaTE13cDRWY0kzUXRuVVh4MkgxS0VjU2REcGVXZDJfRQ?oc=5",
-      "description": "‘잠수함 수평발사장치’ 뭐길래?… 한화오션, 10년 걸려 국산화했다 조선일보",
-      "published": "2026-11-01T07:00:00+00:00",
-      "source": "한화오션 (국내)",
-      "id": "d08238442327d7ce",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-11-01 16:00",
+      "published_ko": "2026-11-02 17:00",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
