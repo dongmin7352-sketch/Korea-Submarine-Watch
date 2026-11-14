@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T12:05:26.607891+09:00",
-  "updated_at_ko": "2026-11-13 12:05",
-  "today": "2026-11-13",
+  "updated_at": "2026-11-14T11:52:00.881750+09:00",
+  "updated_at_ko": "2026-11-14 11:52",
+  "today": "2026-11-14",
   "sources": [
     {
       "source": "한화오션 (국내)",
@@ -83,30 +83,27 @@
   ],
   "articles": [
     {
-      "title": "캐나다, 독일 잠수함 12척 도입 흔들… 한화오션 수주전 다시 주목 - 트루스데일리",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tUkloZDRBczVKanZSbEJiaF9NdldSSDBYVTRHT0FPOVJxVDJKTUFXczRKTDd0eHFZeVNTbWpKSUVFc1pwYkNCOTRIZTRWQW1LV3ZnUHFqN1dLT3Z3ZkNMVWtxUVB6dTRXc0s1MVJ3?oc=5",
-      "description": "캐나다, 독일 잠수함 12척 도입 흔들… 한화오션 수주전 다시 주목 트루스데일리",
-      "published": "2026-11-12T00:06:07+00:00",
+      "title": "한국형 핵잠수함 수주전 본격화…HD현대·한화오션 격돌 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfbHZZU0JhalRWa2lSOTU4MmhsbDJpNTNGazdLazJkd21vX3c2Zk1PbDFERW1POEktVHhVNkVsN0FwVkc3a3I4WnhJWmRzd3NZNTRqQjBfNHZsWjBucVRnZ0xyQ1g?oc=5",
+      "description": "한국형 핵잠수함 수주전 본격화…HD현대·한화오션 격돌 서울경제TV",
+      "published": "2026-11-13T10:16:59+00:00",
       "source": "한화오션 (국내)",
-      "id": "38c76c725fbbdfad",
-      "relevance": 98,
+      "id": "24037fd02cc2e029",
+      "relevance": 90,
       "companies": [
         "한화오션"
       ],
       "competitors": [],
-      "countries": [
-        "🇨🇦 캐나다"
-      ],
+      "countries": [],
       "program_stage": "계약/선정",
       "new_today": false,
-      "published_ko": "2026-11-12 09:06",
+      "published_ko": "2026-11-13 19:16",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
       "tags": [
         "기업 언급: 한화오션",
         "사업/수출",
-        "대상국: 🇨🇦 캐나다",
         "계약/선정"
       ]
     },
@@ -162,30 +159,6 @@
       ]
     },
     {
-      "title": "한화오션, ABB와 부유식 데이터센터 전력·제어 시스템 기술협력 업무협약 체결...잠수함 워터램 방식 수평발사장치 국산화 - 여성소비자신문",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZW9aU1hOclJYWkNJR3FQZlJybXBTOXM5V3pHSW14dThWMkpYVFhGdFFRUENoVS1VVEJ1dXhQTHktY0NuOFM3Z3lUVV92U2ZvMGpvdnlZenROY0tlVmpJN0w3Sl9EZw?oc=5",
-      "description": "한화오션, ABB와 부유식 데이터센터 전력·제어 시스템 기술협력 업무협약 체결...잠수함 워터램 방식 수평발사장치 국산화 여성소비자신문",
-      "published": "2026-11-05T23:12:04+00:00",
-      "source": "한화오션 (국내)",
-      "id": "d30f2bbe10f74d93",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-11-06 08:12",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
       "title": "[특징주] 한화오션, 잠수함 핵심장비 국산화 소식에 7%대 강세 - Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWRkYXdxU1JVUC14bGFwRkdONGR5Qm1xVkVycVpuREw2NFc4aDdZRzVQc1NZQmw3bXZlaWtUdGYyc1ZGOFVKMUtnQjA1MzdVblRKcDlYeGd1YmZXd08wMlFCMVVWY050Tm55UXJnY1gwdk9uS1Y5WHR1TG1mRjA5S0EtWENkM0J20gGcAUFVX3lxTFBqRWRKQW5Gdm9tWHRaN0JBTUdVeHZVa2x1cVNlanBWZHR5clNrN0tuRS1iNWdOZDViaHluM2k2Q04zUjk4VXViZThRWmJtM1lfLU80RnlrcUNHZ3BNU3RCb2puWk5BQmNaSVNiblV5TFk2Tjd4Z1dzTmZTbE0teUQ5Nm41RUJjZ2dQc1BLQUFWU1kydTc1a0xXQWMwSw?oc=5",
       "description": "[특징주] 한화오션, 잠수함 핵심장비 국산화 소식에 7%대 강세 Chosunbiz",
@@ -216,30 +189,6 @@
       "published": "2026-11-01T07:00:00+00:00",
       "source": "한화오션 (국내)",
       "id": "d08238442327d7ce",
-      "relevance": 75,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-11-01 16:00",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 4,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "관련 동향"
-      ]
-    },
-    {
-      "title": "한화오션, ‘잠수함 핵심 장비’ 국산화 성공 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Dc0g3MHRxVmFrU0FUeUJmTG5GSEpiOGxEWEhSZHZ1RlZ4cTFxdW51dWU3TDVSaWY0dnNmSzFBbUNIT1BaWGtRQy1EUU4xektsWDEwSjJn?oc=5",
-      "description": "한화오션, ‘잠수함 핵심 장비’ 국산화 성공 매일경제",
-      "published": "2026-11-01T07:00:00+00:00",
-      "source": "한화오션 (국내)",
-      "id": "bde9b9aae0f8122b",
       "relevance": 75,
       "companies": [
         "한화오션"
