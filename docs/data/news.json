@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-17T13:55:28.869368+09:00",
-  "updated_at_ko": "2026-11-17 13:55",
-  "today": "2026-11-17",
+  "updated_at": "2026-11-18T12:59:22.759610+09:00",
+  "updated_at_ko": "2026-11-18 12:59",
+  "today": "2026-11-18",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
       "source": "국내 잠수함 수출 종합",
       "query": "한국 잠수함 수출 OR 잠수함 수주 OR 잠수함 계약",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -34,8 +34,8 @@
     {
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 2,
       "error": null
     },
     {
@@ -48,8 +48,8 @@
     {
       "source": "Defense News",
       "query": "site:defensenews.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -105,6 +105,31 @@
         "기업 언급: 한화오션",
         "사업/수출",
         "계약/선정"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심기술 국산화 속도…글로벌 수출 경쟁력 강화 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTGVuT1RXMnE0enoyZ1RpYmJxZ3FJS3B4cFVWWm5ITFUyR1J5UzN6U3dta3h2RzNJbkRVSVBMZUJ0U005UkczOTZsREFiVTNrYndSZmkzTjJiQdIBVEFVX3lxTE02eklSQVczenlvUVdNM3VmRUtFTlM4RVozenAzaFYxQ3ZhVU5XQTlyaExmNVRzb1RReDIzai01NEFIZ1otdEtLS1ZxUEJTZU9TQ0ZDUA?oc=5",
+      "description": "한화오션, 잠수함 핵심기술 국산화 속도…글로벌 수출 경쟁력 강화 더팩트",
+      "published": "2026-11-16T00:38:05+00:00",
+      "source": "한화오션 (국내)",
+      "id": "727becf32f677238",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-16 09:38",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "관련 동향"
       ]
     },
     {
