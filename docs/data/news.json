@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-18T12:59:22.759610+09:00",
-  "updated_at_ko": "2026-11-18 12:59",
-  "today": "2026-11-18",
+  "updated_at": "2026-11-19T12:56:16.755714+09:00",
+  "updated_at_ko": "2026-11-19 12:56",
+  "today": "2026-11-19",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
       "found_today": true,
-      "count_today": 1,
+      "count_today": 4,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 3,
       "error": null
     },
     {
@@ -34,8 +34,8 @@
     {
       "source": "조선비즈",
       "query": "site:biz.chosun.com 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": true,
-      "count_today": 2,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -48,8 +48,8 @@
     {
       "source": "Defense News",
       "query": "site:defensenews.com (Hanwha Ocean submarine OR HD Hyundai submarine OR South Korea submarine)",
-      "found_today": true,
-      "count_today": 1,
+      "found_today": false,
+      "count_today": 0,
       "error": null
     },
     {
@@ -83,6 +83,31 @@
   ],
   "articles": [
     {
+      "title": "장보고N 원자로 '관급' 확정…수주전 무게 한화오션으로 - 리드경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PQmZ5YU9vVUJZV19qcW9jdXU4d3Rrd2J3WHBoUkJUekpQaks1WDBqbEJNLUhjdmtqZHNPVmtHN0RuUlh0RG01dkwzb1pSLW5FU0MzeWRnaE5vcndqRWxSNno0cFNUVHA0MHROcGE1a0Y?oc=5",
+      "description": "장보고N 원자로 '관급' 확정…수주전 무게 한화오션으로 리드경제",
+      "published": "2026-11-18T23:37:00+00:00",
+      "source": "한화오션 (국내)",
+      "id": "8e5eb01d2fe96505",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "계약/선정",
+      "new_today": true,
+      "published_ko": "2026-11-19 08:37",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "계약/선정"
+      ]
+    },
+    {
       "title": "29조 핵잠 수주 경쟁 본격화…잠수함 명가 한화오션 vs SMR 강자 HD현대重 - 아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYQnRMVTVieG5XRTdVVno4cGRSZEc0TE4tUkFVUy1uZUJ4cjJwbExVcXJhTVI4R1BOd0IxdTIxaGs1Zl83VWlPV2ZBbTNrb19HTE83RWl4ZndHZ9IBWEFVX3lxTE5SaFdTZkNQQTBUQlp5S0tfRnVra0lwS2paSEVkdE51SzF2czlRX1V6UTgxY0M3LVBBcjhSc2hsdl9fdS1qN1BudjhtVTlFRzhjeGRwdkxKbkI?oc=5",
       "description": "29조 핵잠 수주 경쟁 본격화…잠수함 명가 한화오션 vs SMR 강자 HD현대重 아주경제",
@@ -105,31 +130,6 @@
         "기업 언급: 한화오션",
         "사업/수출",
         "계약/선정"
-      ]
-    },
-    {
-      "title": "한화오션, 잠수함 핵심기술 국산화 속도…글로벌 수출 경쟁력 강화 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTGVuT1RXMnE0enoyZ1RpYmJxZ3FJS3B4cFVWWm5ITFUyR1J5UzN6U3dta3h2RzNJbkRVSVBMZUJ0U005UkczOTZsREFiVTNrYndSZmkzTjJiQdIBVEFVX3lxTE02eklSQVczenlvUVdNM3VmRUtFTlM4RVozenAzaFYxQ3ZhVU5XQTlyaExmNVRzb1RReDIzai01NEFIZ1otdEtLS1ZxUEJTZU9TQ0ZDUA?oc=5",
-      "description": "한화오션, 잠수함 핵심기술 국산화 속도…글로벌 수출 경쟁력 강화 더팩트",
-      "published": "2026-11-16T00:38:05+00:00",
-      "source": "한화오션 (국내)",
-      "id": "727becf32f677238",
-      "relevance": 90,
-      "companies": [
-        "한화오션"
-      ],
-      "competitors": [],
-      "countries": [],
-      "program_stage": "관련 동향",
-      "new_today": false,
-      "published_ko": "2026-11-16 09:38",
-      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
-      "importance": 5,
-      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
-      "tags": [
-        "기업 언급: 한화오션",
-        "사업/수출",
-        "관련 동향"
       ]
     },
     {
@@ -158,28 +158,54 @@
       ]
     },
     {
-      "title": "한국형 핵잠 '장보고 N' 내년 경쟁입찰···한화오션·HD현대 승부 예고 - 뉴스웨이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpOVV4NmFtVk1MSDFjby1HRkQxUEtFcUVPZ0NhUHVEdlhYbERkeHNRNjNHSG9IUk5WX0Q2N3lzeVJjNlZZUUxJYlBSRDFuc0ZHSE9ieFlDUG9nYWtZZFpCTUJFSDF5VDJ4UVE?oc=5",
-      "description": "한국형 핵잠 '장보고 N' 내년 경쟁입찰···한화오션·HD현대 승부 예고 뉴스웨이",
-      "published": "2026-11-12T07:21:52+00:00",
+      "title": "캐나다 잠수함 대신 FLNG..한화오션, 21조 잭팟 임박 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBQkdod0JMemRzdHJYbEF3alFBcGM5STFGS19nUkFYSFRyNjVMSUt0ekhTQlhzaWVlbEJjcDZJZ2F5NDFmMWdjNUl2T2lzX0RWMXVUZm5uOF9fdw?oc=5",
+      "description": "캐나다 잠수함 대신 FLNG..한화오션, 21조 잭팟 임박 파이낸셜뉴스",
+      "published": "2026-11-18T11:07:39+00:00",
       "source": "한화오션 (국내)",
-      "id": "006ecf7dea12677a",
-      "relevance": 90,
+      "id": "4f4301e9ea279ddd",
+      "relevance": 83,
       "companies": [
         "한화오션"
       ],
       "competitors": [],
-      "countries": [],
-      "program_stage": "입찰/제안",
+      "countries": [
+        "🇨🇦 캐나다"
+      ],
+      "program_stage": "관련 동향",
       "new_today": false,
-      "published_ko": "2026-11-12 16:21",
+      "published_ko": "2026-11-18 20:07",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
       "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
       "tags": [
         "기업 언급: 한화오션",
-        "사업/수출",
-        "입찰/제안"
+        "대상국: 🇨🇦 캐나다",
+        "관련 동향"
+      ]
+    },
+    {
+      "title": "핵잠수함 시대 예고…한화오션·HD현대 다시 붙을까 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VQkMxUWlKQXBoQzk1LWFqVE9LU085QWx3eFRQLXIzSlZoUS1kajNadmZ2VktzeXNlUFpnM0stZUI0SUpTWEk1dGFfVEpNakUwMGFuZ2JPem1tSS1wUWxVWTEwbWxSZDhzLWQ4bQ?oc=5",
+      "description": "핵잠수함 시대 예고…한화오션·HD현대 다시 붙을까 비즈워치",
+      "published": "2026-11-18T21:50:02+00:00",
+      "source": "한화오션 (국내)",
+      "id": "2dac701ee50031aa",
+      "relevance": 75,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": true,
+      "published_ko": "2026-11-19 06:50",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 4,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "관련 동향"
       ]
     }
   ]
