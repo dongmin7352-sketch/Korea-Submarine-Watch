@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-19T12:56:16.755714+09:00",
-  "updated_at_ko": "2026-11-19 12:56",
-  "today": "2026-11-19",
+  "updated_at": "2026-11-20T12:50:03.723708+09:00",
+  "updated_at_ko": "2026-11-20 12:50",
+  "today": "2026-11-20",
   "sources": [
     {
       "source": "한화오션 (국내)",
       "query": "한화오션 잠수함",
       "found_today": true,
-      "count_today": 4,
+      "count_today": 3,
       "error": null
     },
     {
       "source": "HD현대중공업 (국내)",
       "query": "HD현대중공업 잠수함 OR 현대중공업 잠수함",
       "found_today": true,
-      "count_today": 3,
+      "count_today": 1,
       "error": null
     },
     {
@@ -27,8 +27,8 @@
     {
       "source": "연합뉴스",
       "query": "site:yna.co.kr 잠수함 (한화오션 OR HD현대 OR 현대중공업)",
-      "found_today": false,
-      "count_today": 0,
+      "found_today": true,
+      "count_today": 1,
       "error": null
     },
     {
@@ -83,6 +83,32 @@
   ],
   "articles": [
     {
+      "title": "29조 '장보고N' 수주전...한화오션 '건조 경험' vs. HD현대중공업 '원자력 기술' - 소비자가 만드는 신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQWTZhOXE5QVhQdXB3TS1LalNtY1pmZkUtVEtFd0NDRU5QRG16UzBlenRYUndJUmdBbnZ3VnQwVGltV3ZRRmZTVUQ5VnNlbVotWjV5YUVsRGJyS1lRUnVqQzJPNE5CQVpVU0FTcjR2NGtsY3c?oc=5",
+      "description": "29조 '장보고N' 수주전...한화오션 '건조 경험' vs. HD현대중공업 '원자력 기술' 소비자가 만드는 신문",
+      "published": "2026-11-20T01:25:40+00:00",
+      "source": "한화오션 (국내)",
+      "id": "e9db3f23b6ad6f34",
+      "relevance": 90,
+      "companies": [
+        "한화오션",
+        "HD현대중공업"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "계약/선정",
+      "new_today": true,
+      "published_ko": "2026-11-20 10:25",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션, HD현대중공업",
+        "사업/수출",
+        "계약/선정"
+      ]
+    },
+    {
       "title": "장보고N 원자로 '관급' 확정…수주전 무게 한화오션으로 - 리드경제",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PQmZ5YU9vVUJZV19qcW9jdXU4d3Rrd2J3WHBoUkJUekpQaks1WDBqbEJNLUhjdmtqZHNPVmtHN0RuUlh0RG01dkwzb1pSLW5FU0MzeWRnaE5vcndqRWxSNno0cFNUVHA0MHROcGE1a0Y?oc=5",
       "description": "장보고N 원자로 '관급' 확정…수주전 무게 한화오션으로 리드경제",
@@ -96,7 +122,7 @@
       "competitors": [],
       "countries": [],
       "program_stage": "계약/선정",
-      "new_today": true,
+      "new_today": false,
       "published_ko": "2026-11-19 08:37",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 5,
@@ -130,6 +156,31 @@
         "기업 언급: 한화오션",
         "사업/수출",
         "계약/선정"
+      ]
+    },
+    {
+      "title": "한화오션, 잠수함 핵심기술 국산화 속도…글로벌 수출 경쟁력 강화 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTGVuT1RXMnE0enoyZ1RpYmJxZ3FJS3B4cFVWWm5ITFUyR1J5UzN6U3dta3h2RzNJbkRVSVBMZUJ0U005UkczOTZsREFiVTNrYndSZmkzTjJiQdIBVEFVX3lxTE02eklSQVczenlvUVdNM3VmRUtFTlM4RVozenAzaFYxQ3ZhVU5XQTlyaExmNVRzb1RReDIzai01NEFIZ1otdEtLS1ZxUEJTZU9TQ0ZDUA?oc=5",
+      "description": "한화오션, 잠수함 핵심기술 국산화 속도…글로벌 수출 경쟁력 강화 더팩트",
+      "published": "2026-11-16T00:38:05+00:00",
+      "source": "한화오션 (국내)",
+      "id": "727becf32f677238",
+      "relevance": 90,
+      "companies": [
+        "한화오션"
+      ],
+      "competitors": [],
+      "countries": [],
+      "program_stage": "관련 동향",
+      "new_today": false,
+      "published_ko": "2026-11-16 09:38",
+      "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
+      "importance": 5,
+      "assessment": "한화오션/HD현대중공업의 잠수함 수출·사업과 직접 관련된 중요 기사입니다.",
+      "tags": [
+        "기업 언급: 한화오션",
+        "사업/수출",
+        "관련 동향"
       ]
     },
     {
@@ -198,7 +249,7 @@
       "competitors": [],
       "countries": [],
       "program_stage": "관련 동향",
-      "new_today": true,
+      "new_today": false,
       "published_ko": "2026-11-19 06:50",
       "summary_ko": "AI API 키가 없어 규칙 기반 분석이 표시됩니다. 원문을 열어 핵심 내용을 확인하세요.",
       "importance": 4,
